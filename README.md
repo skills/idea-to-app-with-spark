@@ -1,12 +1,12 @@
-# Build a Web App with GitHub Spark
+# From Idea to App with GitHub Spark
 
-_Create, customize, and publish a web application to solve your unique problem (or hobby) by just describing it - no coding required._
+_Turn your thoughts into real web apps by simply describing them, no coding required!_
 
 ## Welcome
 
 - **Who is this for**: Anyone with an idea to solve a problem or make their hobby easier, but is unsure how to get started.
 - **What you'll learn**: How to create a web application by simply describing it, like you would to a friend/coworker.
-- **What you'll build**: You'll create a web application tailored to solve a work task, personal passion, or niche hobby. It will include interactive features, data storage, and even AI capabilities.
+- **What you'll build**: You'll create 1 of 3 web application tailored to solve the custom problem of a paper plate engineer, barista, or lacrosse coach. It will include interactive features, data storage, and even AI.
 - **Prerequisites**:
 
   - A paid tier of GitHub Copilot (Copilot Pro+ or Copilot Enterprise)
@@ -22,14 +22,14 @@ In this exercise, you will:
 1. Share your application with your workplace or community
 1. Explore advanced features and underlying code
 
-> [IMPORTANT!]
+> [!IMPORTANT]
 > GitHub Spark is currently in public preview to a limited set of users. Please verify you have access, or [request it](https://github.com/features/spark), before before beginning.
 
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=github-spark&owner=%40me&name=skills-github-spark&description=Exercise:+Building+Web+Apps+with+GitHub+Spark&visibility=public)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills-dev&template_name=create-an-app-with-spark&owner=%40me&name=skills-create-an-app-with-spark&description=Exercise:+From+Idea+to+App+with+GitHub+Spark&visibility=public)
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>

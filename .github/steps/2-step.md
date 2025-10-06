@@ -1,30 +1,54 @@
 ## Step 2: Revise and Edit Your App
 
-Your app is working, but you realize it could be even more helpful. Maybe it needs a filter, different data, or new functionality that would make it more useful for your specific needs. The great news is that you can continue to improve your app just by talking to Spark, again with normal language (and that niche hobby jargon).
+After playing with your new app, it probably didn't take long to realize you forgot something or come up with some cool new ideas to make it even better.
 
-### 📖 Theory: Continuous Refinement Through Conversation
+Maybe it needs a filter, other data, or another feature for your specific needs. The great news is that you can continue to improve your app just by talking to Spark, again with normal language (and that niche work/hobby jargon you taught Spark).
 
-One of Spark's most powerful features is the ability for you to submit changes to continuously refine your project after the initial creation. You can use the chat interface on the left side to keep changing things and making improvements. On day 1 it might still be annoying, but after a few days or weeks, you've made it super awesome.
+### 📖 Theory: Continuous Refinement
 
-You can also target specific changes using the "Select element to edit" button. Rather than describe where to apply the change, this is like pointing your finger at something and describing the change.
+One of Spark's most powerful features is the ability to submit changes to continuously refine your project after the initial creation. You can use the chat interface. Unlike traditional software, you don't have to live with a difficult version 1 for 6 months until the next release happens! After a few chats you've might have something super awesome. Just imagine after 6 months! 🧑‍🚀
 
-To learn more about improving your app, check out the [Spark tutorials](https://docs.github.com/en/copilot/tutorials/spark/your-first-spark#improving-your-app) and [building apps with Spark](https://docs.github.com/en/copilot/tutorials/spark/build-apps-with-spark#step-2-refine-and-expand-your-app).
+There are 2 (and a half) primary ways to communicate ideas to Spark:
 
-### ⌨️ Activity: Enhance Your App with Additional Features
+1. **Left Chat panel**: Similar to our initial application description, just describe the desired change(s).
 
-1. Use the left chat panel to submit a revision prompt that adds relevant functionality. Choose the prompt that matches the app you created in Step 1:
+2. **Element Selector**: Select a feature in the live preview and use the floating chat box to focus your request to a particular area.
+
+- **Share an Image**: In either of the above chats, attach image of a mock up, or even a hand sketch, to clarify your description.
+
+### ⌨️ Activity: Add a new feature
+
+1. Ensure you are at the live preview screen.
+
+1. Below are example ideas to share with Spark.
 
    <details>
-   <summary>🍽️ Paper Plate Production - Add AI Rule Analysis</summary><br/>
+   <summary>🍽️ Paper Plate Designer</summary><br/>
 
-   Try this prompt: "Add a dashboard that analyzes conversation patterns and automatically suggests new quality control rules based on frequently discussed issues. Include a confidence score for each suggested rule."
+   ```md
+   Add support for different shaped plates.
+   Add a configuration option in the side panel to pick shape: Round, Triangle, Square, Pentagon, Hexagon, Octagon.
+   For all options except round, add a configuration option in the side panel to set "Corner Radius". default: 0.5 inches
+   ```
+
+   ```md
+   The preview area needs to look more like a piece of paper, like a drawing done by the drafting department. Make sure the view includes page borders and a title block. The title block needs a
+   ```
 
    </details>
 
    <details>
    <summary>☕️ Coffee Shop - Add Customer Interaction</summary><br/>
 
-   Try this prompt: "Add a customer voting system where people can upvote their favorite secret menu items. Include a 'Drink of the Week' feature that highlights the most popular creation."
+   ```md
+   The available ingredients for the secret menu are constantly changing.
+   Add an area in the side panel that shows all ingredients with checkboxes. If something is unchecked, those items in the menu are dimmed and the word "unavailable" is added.
+   ```
+
+   ```md
+   The available ingredients for the secret menu are constantly changing.
+   Add an area in the side panel that shows all ingredients with checkboxes. If something is unchecked, those items in the menu are dimmed and the word "unavailable" is added.
+   ```
 
    </details>
 
@@ -35,28 +59,57 @@ To learn more about improving your app, check out the [Spark tutorials](https://
 
    </details>
 
-1. Test the new functionality in the live preview
+1. Copy your favorite new change and paste it into the left chat panel, then click the **Submit** button.
 
-### ⌨️ Activity: Target a Specific Change
+1. Monitor the left chat panel for live feedback. Wait for Spark to finish then try the new features in the live preview.
 
-1. Use the "Select element to edit" button to target a specific part of your app.
+   <img width="350" alt="Spark chat with live progress information" src="2a.png">
 
-1. Enter the following change to modify the interface:
+### ⌨️ Activity: Target a specific change
+
+1. Above the live preview, find the toolbar in the top right.
+
+1. Select the **Select element to edit** button.
+
+   <img width="350" alt="Select element button" src="2b.png">
+
+1. Hover over and click on the right side panel to highlight it, and show a chat box.
+
+   <img width="350" alt="Select element button" src="2d.png">
+
+1. Enter the following text to ask Spark to make the side panel automatically hide when it isn't used:
 
    ```md
-   This area is very busy. Reorganize it to be easier to understand.
+   This takes up a lot of room. Can you do something to make it automatically hide and show?
    ```
 
-1. Test the new functionality in the live preview
+   <img width="350" alt="Floating chat box" src="2c.png">
 
-1. Comment below describing what you changed in your app and how it improved the user experience.
+1. Test the new functionality in the live preview to see if it operates as desired.
+
+### ⌨️ Activity: Undo and try again
+
+Sometimes we don't like the results, or just want to try again with a better description.
+
+1. In the left chat panel, notice there are dots on a vertical timeline, one for each task.
+
+1. Find the previous task, hover over it, and click the **Restore** button.
+
+   <img width="350" alt="Restore button" src="2e.png">
+
+1. Wait a moment for the live preview to update.
+
+1. Try updating the "hide panel" feature again with this more specific request.
+
+   ```md
+   The side panel takes up a lot of room. Can you do something to make it automatically hide and show? I don't want to have to click anything. Just show when I move my mouse near the side.
+   ```
+
+1. With the hide panel finished, please add an issue comment to let Mona know you are ready for the next step.
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
-- The chat panel is on the left side of the Spark interface - use it to submit revision requests
-- The "Select element to edit" button allows you to point to specific parts of your app for targeted changes
-- Changes may take a few minutes to process and appear in the live preview
-- If a change doesn't work as expected, try rephrasing your request with more specific details
+- Updates can take a while, especially if it is a busy time.
 
 </details>

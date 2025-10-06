@@ -52,7 +52,7 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
    <img width="500" alt="Screenshot of example generated app for paper plate design" src="1c.png">
 
    ```md
-   Create an application to design a simple paper plate.
+   Create an application to design a simple paper plate. Add a panel on the right with configuration options.
    ```
 
    </details>
@@ -61,7 +61,7 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
    <summary>2. Coffee Shop - ☕️ Secret Menu</summary><br/>
 
    ```md
-   Create an application to help a barista build a secret menu with fellow staff.
+   Create an application to help a barista build a secret menu with fellow staff. Add a side panel with filters to make it easy to find recipes.
    ```
 
    </details>

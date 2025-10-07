@@ -22,7 +22,6 @@ jobs:
 
   check_step:
     name: Check step
-    needs: [find_exercise]
     runs-on: ubuntu-latest
 
     outputs:

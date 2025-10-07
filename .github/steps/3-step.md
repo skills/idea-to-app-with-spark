@@ -19,19 +19,19 @@ Spark provides several ways to customize your application:
 
 1. In the left chat panel, at the top, click the **Theme** tab to show controls for changing the appearance.
 
-   <img width="350" alt="Side panel with theme tab highlighted" src="3a.png">
+   <img width="350" alt="Side panel with theme tab highlighted" src="https://github.com/user-attachments/assets/402d2fc9-47fe-413b-85e4-e4d3837d9a35">
 
 1. Change the color theme to something like `Minimalist` or `Cosmic Latte`. Note: Spark may recommend you different options.
 
-   <img width="350" alt="Color selector in the theme panel" src="3b.png">
+   <img width="350" alt="Color selector in the theme panel" src="https://github.com/user-attachments/assets/2baa2671-7d65-4b49-9706-93194fedb988">
 
 1. Experiment with the **Typography** to find a font that matches your app's feel.
 
-   <img width="350" alt="Typography selectors in the theme panel" src="3c.png">
+   <img width="350" alt="Typography selectors in the theme panel" src="https://github.com/user-attachments/assets/b3b6251d-c4de-47bc-8649-aa8b93945b26">
 
 1. If interested, use the **Color** area to override the Theme and manually set colors.
 
-   <img width="350" alt="Color selectors area in the theme panel" src="3d.png">
+   <img width="350" alt="Color selectors area in the theme panel" src="https://github.com/user-attachments/assets/3fe6a485-122f-46d9-97ab-65736446efda">
 
 ### ⌨️ Activity: (Optional) Add existing files
 
@@ -43,7 +43,7 @@ It's very common to have existing assets, like a company logo, recipe results, o
 
    | Paper Plate Company              | Coffee Shop Logo                | Lacrosse Mascot |
    | -------------------------------- | ------------------------------- | --------------- |
-   | ![Mergington Paper Prod](3f.png) | ![The Late Commit Cafe](3g.png) | ![](3h.png)     |
+   | ![Mergington Paper Prod](https://github.com/user-attachments/assets/976591b7-7af3-460d-a3db-174c1ef084b6) | ![The Late Commit Cafe](https://github.com/user-attachments/assets/c5149b86-df10-41b2-a772-4fd463b5df19) | ![](3h.png)     |
 
 1. In the left side panel, click the **Upload files** button and choose your file.
 
@@ -61,13 +61,13 @@ Sometimes it is nice to see the stored information to manually modify it. This a
 
 1. In the left chat panel, at the top, click the **Data** tab to show a list of data objects. Some are single values and some are tables.
 
-   <img width="350" alt="" src="3e.png">
+   <img width="350" alt="" src="https://github.com/user-attachments/assets/daf55c10-755c-4394-a2b9-04d7b7a82584">
 
 1. Click on a few of the items to open an editor for changing the values. Here are some examples:
 
    | JSON Document | Table       |
    | ------------- | ----------- |
-   | ![](3i.png)   | ![](3j.png) |
+   | ![](https://github.com/user-attachments/assets/856ffcd3-2b59-4de5-99e9-cfd47b0ec00c) | ![](https://github.com/user-attachments/assets/0d3753ee-9d55-4900-b4bb-f064efeb81d6) |
 
 1. Change a value in one of the tables, then click the **Done** button to save.
 

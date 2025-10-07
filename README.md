@@ -1,4 +1,4 @@
-# From Idea to App with GitHub Spark
+# Idea to App with GitHub Spark
 
 _Turn your thoughts into real web apps by simply describing them, no coding required!_
 

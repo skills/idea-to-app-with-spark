@@ -54,7 +54,7 @@ Rather than describe some theories of good communication, let's focus on our fun
 
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
 
-   📎 Attachment: [Paper Plate Drawing](1-paper-plate-drawing.png)
+   📎 Attachment: [Example Paper Plate Drawing](https://github.com/user-attachments/assets/8fbc27db-1dc8-4ef6-a85d-7e732d7f88f1)
 
    ```prompt
    Make an application for dynamically previewing the design of a paper plate.

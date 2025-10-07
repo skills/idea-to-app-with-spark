@@ -20,10 +20,39 @@ jobs:
     name: Find Exercise Issue
     uses: skills/exercise-toolkit/.github/workflows/find-exercise-issue.yml@v0.7.2
 
+  check_step:
+    name: Check step
+    runs-on: ubuntu-latest
+
+    outputs:
+      is-step-complete: ${{ steps.is-step-complete.outputs.is-step-complete }}
+
+    steps:
+      - name: Verify comment body includes step number and a checked box
+        uses: actions/github-script@v6
+        id: is-step-complete
+        with:
+          script: |
+            // Get comment body
+            const commentBody = process.env.COMMENT_BODY || '';
+
+            // Check for Step number and checked box
+            const stepNumberFound = commentBody.includes(process.env.STEP_MARKER);
+            const checkboxCheckFound = commentBody.includes('- [x]');
+
+            // Save result as output
+            const isStepComplete = stepNumberFound && checkboxCheckFound;
+            core.setOutput('is-step-complete', isStepComplete);
+        env:
+          STEP_MARKER: "Step 4"
+          COMMENT_BODY: ${{ github.event.comment.body }}
+
   post_next_step_content:
     name: Post next step content
-    needs: [find_exercise]
+    needs: [find_exercise, check_step]
     runs-on: ubuntu-latest
+    if: ${{ needs.check_step.outputs.is-step-complete == 'true' }}
+
     env:
       ISSUE_REPOSITORY: ${{ github.repository }}
       ISSUE_NUMBER: ${{ needs.find_exercise.outputs.issue-number }}

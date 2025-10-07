@@ -98,6 +98,8 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
 
 1. Wait a few minutes for Spark to finish. Enjoy the playful messages while you wait!
 
+   <img width="350" alt="Playful messages with sparkles decoration" src="https://github.com/user-attachments/assets/46ca83de-22e0-47ca-b54c-e6acf975c7b9">
+   
 > [!TIP]
 > If you start multiple Spark apps with the same or similar descriptions, you'll get different results. A great way to explore parallel ideas! But be careful, that will also use up your quota quickly too!
 

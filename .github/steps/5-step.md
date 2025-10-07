@@ -26,13 +26,13 @@ Like a regular Codespace, you can open it and start coding manually, just like y
 
 1. Click the **Three dot (...)** button and select the **Open codespaces** option.
 
-   <img width="350" alt="Open codespace button" src="5a.png">
+   <img width="350" alt="Open codespace button" src="https://github.com/user-attachments/assets/fd1cdb41-24ce-4312-bc32-990b76dd6283">
 
 1. Wait for the codespace to load in a new browser tab.
 
 1. In the left file navigation, open the `./PRD.md` file to view the notes Spark stores for keeping your application organized.
 
-   <img width="350" alt="PRD file example" src="5b.png">
+   <img width="350" alt="PRD file example" src="https://github.com/user-attachments/assets/3b000513-acd7-4188-85e7-4ee1ac543443">
 
 1. Expand the **Copilot Chat Panel** and ask Copilot to change the application title.
 
@@ -45,7 +45,7 @@ Like a regular Codespace, you can open it and start coding manually, just like y
 
 1. Navigate back to the Spark page. Notice that the live preview is updated and a `Manual edit` entry was added to the left chat panel.
 
-   <img width="350" alt="Manuel edit added to left chat panel" src="5c.png">
+   <img width="350" alt="Manuel edit added to left chat panel" src="https://github.com/user-attachments/assets/b06eccb0-644e-4562-918f-3f2253004ddb">
 
 ### ⌨️ Activity: Save to Repository
 
@@ -53,15 +53,15 @@ Like a regular Codespace, you can open it and start coding manually, just like y
 
 1. Click the **Three dot (...)** button and select the **Create repository** option.
 
-   <img width="350" alt="Create repository button" src="5d.png">
+   <img width="350" alt="Create repository button" src="https://github.com/user-attachments/assets/ad91575a-0906-48e4-8f76-9d06ae95035e">
 
 1. Click **Create** button to start a private repository under your GitHub account.
 
-   <img width="350" alt="Create repository dialog window" src="5e.png">
+   <img width="350" alt="Create repository dialog window" src="https://github.com/user-attachments/assets/2efcfd7a-5807-4a2e-b208-3a29c2ac6795">
 
 1. Wait a moment for the repository to be created then press the **Go to repository** button.
 
-   <img width="350" alt="Open repository window" src="5f.png">
+   <img width="350" alt="Open repository window" src="https://github.com/user-attachments/assets/f89569cb-f706-439e-83d4-0b2ed057aa27">
 
 1. (Optional) begin collaborating with others in your regular style. 🎉
 

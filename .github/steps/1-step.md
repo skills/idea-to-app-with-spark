@@ -36,9 +36,10 @@ We all know starting the app with "Make an app to design paper plates." is prett
 
 Rather than describe some theories of good communication, let's focus on our fun creative flow, and just get started with an example.
 
-> 🧪 **Pro tip:** Use another AI chat tool, like Copilot on GitHub.com, to brainstorm ideas for your app and clarify vague requirements.
-
 To learn more about Spark's capabilities and billing, check out the [GitHub Spark documentation](https://github.com/features/spark)
+
+> [!TIP]
+> You can use another AI chat tool, like Copilot on GitHub.com, to brainstorm ideas for your app and combine them into a clear plan for Spark to implement.
 
 ### ⌨️ Activity: Explore Spark and Create Your First App
 
@@ -85,21 +86,18 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
 
    </details>
 
-1. Copy your favorite choice and paste it into the description text box, then click the **Submit** button.
+1. Copy your favorite choice and paste it into the description text box, then click the **Submit** button. You will be forward to a page with the chat interface and live preview.
 
    <img width="350" alt="Spark start box with example text and highlighted submit button" src="https://github.com/user-attachments/assets/0e6afb14-7791-4741-b2c1-bb788ee5bba1">
 
-1. You will be forward to a page with the chat interface and live preview.
-
-   - Your results will likely be different from the example screenshot shared earlier.
-   - Notice on the left, that Spark is providing constant feedback about progress.
+1. In the left chat panel, notice that Spark is providing constant feedback about progress of your app.
 
    <img width="350" alt="Spark chat with live progress information" src="https://github.com/user-attachments/assets/45ded9dc-6744-4a16-ae4f-af25836a5ae8">
 
-1. Wait a few minutes for Spark to finish. Enjoy the playful messages while you wait!
+1. Wait a few minutes for Spark to finish. Enjoy the playful messages while you wait! Note: Your results will likely be different from the example screenshot shared earlier.
 
    <img width="350" alt="Playful messages with sparkles decoration" src="https://github.com/user-attachments/assets/46ca83de-22e0-47ca-b54c-e6acf975c7b9">
-   
+
 > [!TIP]
 > If you start multiple Spark apps with the same or similar descriptions, you'll get different results. A great way to explore parallel ideas! But be careful, that will also use up your quota quickly too!
 

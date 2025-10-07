@@ -50,7 +50,7 @@ Rather than describe some theories of good communication, let's focus on our fun
    <details>
    <summary>1. Paper Plates - 🍽️ Prototype Designer</summary><br/>
 
-   <img width="500" alt="Screenshot of example generated app for paper plate design" src="https://github.com/user-attachments/assets/0f391330-d324-4f17-9290-3851ef3aed49">
+   <img width="500" alt="Screenshot of example generated app for paper plate design" src="https://github.com/user-attachments/assets/c1b6359f-3104-4250-9e63-8ca3a9a86e3d">
 
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
 

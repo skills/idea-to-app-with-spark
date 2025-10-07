@@ -31,11 +31,13 @@ Spark apps are linked to your personal account, not to an organization. Others c
 
 1. Click the **Publish** button in the top-right corner of the Spark interface.
 
+   <img width="350" alt="Publish button" src="">
+
 1. Wait a moment for the application to be published.
 
 1. Click on the **Published** button to show the application address. Notice the **Visibility** defaults to the most private option.
 
-   <img width="350" alt="Publish details window" src="4a.png">
+   <img width="350" alt="Publish details window" src="https://github.com/user-attachments/assets/6c8329b0-4cc7-4837-9eb6-ea2722d96885">
 
 1. Click the **Visit site** button or copy the address into a new browser tab.
 
@@ -43,7 +45,7 @@ Spark apps are linked to your personal account, not to an organization. Others c
 
 1. Change the visibility to `All GitHub users` to make it available to anyone with a GitHub account.
 
-   <img width="350" alt="Visibility setting: All GitHub users" src="4b.png">
+   <img width="350" alt="Visibility setting: All GitHub users" src="https://github.com/user-attachments/assets/a70cbd3a-aeea-4a4a-bb1e-f35fd0a58243">
 
 1. Share the link with a friend or coworker to verify they have access.
 

@@ -43,7 +43,7 @@ Rather than describe some theories of good communication, let's focus on our fun
 
 1. Right-click the below link and open Spark in another browser tab.
 
-   [![](https://img.shields.io/badge/Open%20Spark-%E2%86%92-f1e5ff?style=for-the-badge&logo=github&labelColor=894ceb)](https://github.com/spark)
+   [![](https://img.shields.io/badge/✨%20Open%20Spark-%E2%86%92-f1e5ff?style=for-the-badge&labelColor=ce2c85&color=f8e5ff)](https://github.com/spark)
 
 1. Read the below sample application descriptions and pick your favorite.
 

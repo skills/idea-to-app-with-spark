@@ -55,8 +55,37 @@ Rather than describe some theories of good communication, let's focus on our fun
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
 
    ```prompt
-   Create an application to design a simple paper plate.
-   Add a panel on the right with configuration options.
+   Make an application for dynamically previewing the design of a paper plate.
+   This will be used to help communicate with customers.
+
+   ### Plate Preview
+
+   - The preview is on the left and is dynamically generated from the values in the configuration panel. This is very very important.
+   - There are 2 views: Top View and Front Section View. The attached image shows these example views.
+   - Both views should be shown on the same page.
+   - The front section should show the various dimensions. In the attached example image, the plate geometry is in red and the dimensions are in black.
+
+   ### Plate configuration panel
+
+   - The configuration options are on the right in a panel. It is always visible.
+   - The parameters are the following:
+   - Top out diameter - The maximum diameter from measuring the outside of the plate.
+   - Top in diameter - Intersection of the side wall and the top of the plate.
+   - Bottom out diameter - Intersection of the side wall and the bottom of the plate.
+   - Plate Depth - The measurement from the top to the bottom of the plate.
+   - Bottom Radius - The radius of the transition between the plate bottom and the side wall.
+   - Plate Thickness - Default to 0.018 inches.
+   - Side Wall Angle - The angle between the bottom of the plate and the side wall.
+   - Quick Add Tool - Add a text box below the configuration options with the title "Quick Add". This will be used for copying an email into it that has all the configuration values somewhere. Use AI to scan the email text and automatically fill in the configuration values.
+
+   ### Other considerations
+
+   - All dimensions are in inches by default. Add a toggle for metric (millimeters).
+   - Add a "designs" tab for storing the current and past designs. This will allow the user to quickly switch between designs. Add 3 example plates so the history already has samples to test with.
+   - The interface needs to be beautiful. This is for marketing.
+   - Make it work best for desktop. Phone does not matter.
+   - The drawing will need to be downloaded as a PDF.
+   - Multiple users will be using this simultaneously. Make sure they can't see each others' designs.
    ```
 
    </details>

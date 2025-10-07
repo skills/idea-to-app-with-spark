@@ -1,23 +1,22 @@
 ## Review
 
-_Congratulations, you've completed this exercise and learned how to build web applications with GitHub Spark!_
+_Look at you! You've completed this exercise and transformed from idea-haver to app-maker with GitHub Spark! ✨_
 
 <img src="https://octodex.github.com/images/jetpacktocat.png" alt="celebrate" width=200 align=right>
 
-You've successfully created a functional web application using GitHub Spark without writing any code! Your application demonstrates how natural language can be used to build, customize, and deploy real applications that solve problems you care about.
+Remember when you were _that person_ with the great ideas but no way to build them? Well, not anymore! Your app proves that when you combine your niche knowledge with Spark's AI magic, amazing things happen! 🧑‍🚀
 
 Here's a recap of your accomplishments:
 
-- Built a complete web application using only natural language prompts
-- Customized app appearance and functionality through conversation and visual tools
-- Managed data storage and user interactions without technical complexity
-- Published and shared your app with appropriate access controls
-- Explored the underlying code structure and advanced development features
+- Built a complete web application by just describing it!
+- Customized your app's looks and functionality through conversation and Spark's recommendations.
+- Shared your app with with a friend or coworker.
+- Explored the actual code structure and discovered advanced development features!
 
-### What's next?
+### What's sparking next?
 
-- [Getting Started with GitHub Copilot](https://skills.github.com/skills/copilot) - Explore more AI-powered development tools
-- [GitHub Codespaces documentation](https://docs.github.com/en/codespaces) - Learn more about cloud development environments
-- [GitHub Skills](https://skills.github.com/) - Continue learning with more hands-on exercises
+The fun doesn't stop here! Your journey from idea-haver to app-maker is just beginning:
 
-> 💡 **Tip:** Before you start making an AI chatbot for answering support questions, check out Copilot Spaces first.
+- **[Getting Started with GitHub Copilot](https://skills.github.com/skills/copilot)** - Level up with more AI-powered development tools
+- **[GitHub Codespaces](https://github.com/skills-dev/code-with-codespaces)** - Simplify your flow with a pre-configured development environment.
+- **[GitHub Skills](https://learn.github.com/skills)** - Keep the learning party going with more hands-on exercises.

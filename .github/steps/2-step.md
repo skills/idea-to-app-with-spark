@@ -70,7 +70,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 
 1. Monitor the left chat panel for live feedback. Wait for Spark to finish then try the new features in the live preview.
 
-   <img width="350" alt="Spark chat with live progress information" src="2a.png">
+   <img width="350" alt="Spark chat with live progress information" src="https://github.com/user-attachments/assets/652bf9b3-9e22-4575-8980-e8841f3dece5">
 
 ### ⌨️ Activity: Target a specific change
 
@@ -78,11 +78,11 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 
 1. Select the **Select element to edit** button.
 
-   <img width="350" alt="Select element button" src="2b.png">
+   <img width="350" alt="Select element button" src="https://github.com/user-attachments/assets/9c9dbf82-4cc8-48e8-82dc-eda14d7e6e3f">
 
 1. Hover over and click on the right side panel to highlight it, and show a chat box.
 
-   <img width="350" alt="Select element button" src="2d.png">
+   <img width="350" alt="Select element button" src="https://github.com/user-attachments/assets/2f5a3d9a-30d1-4c8b-aa01-b208c63b65ec">
 
 1. Enter the following text to ask Spark to make the side panel automatically hide when it isn't used:
 
@@ -93,7 +93,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    > Can you do something to make it automatically hide and show?
    > ```
 
-   <img width="350" alt="Floating chat box" src="2c.png">
+   <img width="350" alt="Floating chat box" src="https://github.com/user-attachments/assets/c6141af3-cd8c-4924-969c-a2992218dc4d">
 
 1. Test the new functionality in the live preview to see if it operates as desired.
 
@@ -105,7 +105,7 @@ Sometimes we don't like the results, or just want to try again with a better des
 
 1. Find the previous task, hover over it, and click the **Restore** button.
 
-   <img width="350" alt="Restore button" src="2e.png">
+   <img width="350" alt="Restore button" src="https://github.com/user-attachments/assets/7fadae34-2155-4fcc-89b1-fdff9d4891bd">
 
 1. Wait a moment for the live preview to update.
 

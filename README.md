@@ -2,6 +2,16 @@
 
 _Turn your thoughts into real web apps by simply describing them, no coding required!_
 
+<img width="200" src="https://octodex.github.com/images/sponsortocat.png" align="right">
+
+The example Spark starter applications in this tutorial were develop in collaboration with real people doing their real jobs.
+
+Special thanks to:
+
+- A paper plate design engineer - Central Indiana
+- A café manager - Central Oklahoma
+- A lacrosse coach - Northern Massachusets
+
 ## Welcome
 
 - **Who is this for**: Anyone with an idea to solve a problem or make their hobby easier, but is unsure how to get started.
@@ -23,7 +33,7 @@ In this exercise, you will:
 1. Explore advanced features and underlying code
 
 > [!IMPORTANT]
-> GitHub Spark is currently in public preview to a limited set of users. Please verify you have access, or [request it](https://github.com/features/spark), before before beginning.
+> GitHub Spark is currently in public preview. Please verify you have access or [request it](https://github.com/features/spark) before beginning.
 
 ### How to start this exercise
 

@@ -71,3 +71,12 @@ Like a regular Codespace, you can open it and start coding manually, just like y
 - If the **Open Codespace** and **Create repository** options are unavailable, please wait a moment for Spark to finish working.
 
 </details>
+
+## Play time is over 🥹
+
+How was that? Did you have fun? I hope you _sparked_ some new ideas! ✨ After you answer, you are all done! 🎉
+
+- [ ] Surprisingly fun! 🤓
+- [ ] I prefer a non-committal answer!
+- [ ] Didn't really like it. 👎 (thanks for your honesty)
+- [ ] It was bad. I was basically forced to start an issue to share feedback. 📝

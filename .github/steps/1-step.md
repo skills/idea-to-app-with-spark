@@ -96,13 +96,6 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
 
 1. Wait a few minutes for Spark to finish. Enjoy the playful messages while you wait!
 
-1. When the app is ready, go to the next comment and select the example application you chose to create..
-
-   - [ ] Paper Plates - 🍽️ Prototype Designer
-   - [ ] Coffee Shop - ☕️ Secret Menu
-   - [ ] Lacrosse Coach - 🥍 Player Improvement
-   - [ ] My Own - Nice! 🧙
-
 > [!TIP]
 > If you start multiple Spark apps with the same or similar descriptions, you'll get different results. A great way to explore parallel ideas! But be careful, that will also use up your quota quickly too!
 
@@ -113,3 +106,12 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
 - If it seems to be taking a while, that is normal. A well thought out application with lots of requirements can take a long time, even 20 or 30 minutes.
 
 </details>
+
+## App ready?
+
+When your app seems to be ready and working, check the box of the example application you chose to create, then wait a few moments for the next step to be shared.
+
+- [ ] Paper Plates - 🍽️ Prototype Designer
+- [ ] Coffee Shop - ☕️ Secret Menu
+- [ ] Lacrosse Coach - 🥍 Player Improvement
+- [ ] My Own - Nice! 🦄 🧙

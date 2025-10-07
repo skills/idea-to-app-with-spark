@@ -57,3 +57,12 @@ Spark apps are linked to your personal account, not to an organization. Others c
 - You can change visibility settings after publishing your app.
 
 </details>
+
+## Sharing is caring 🎉
+
+Who did you share your game changing app with?
+
+- [ ] A colleague. We love playing with the new tech! 🤓
+- [ ] A friend. We love playing with the new tech! 🤓
+- [ ] My secret demo account, haha. 🤣
+- [ ] No one. I play with the new (dangerous) tech alone! 🧑‍🚀

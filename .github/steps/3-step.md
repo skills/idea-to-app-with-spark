@@ -80,3 +80,12 @@ Sometimes it is nice to see the stored information to manually modify it. This a
 - If an image no longer shows in the Assets list, don't worry. It wasn't removed. Spark just moved it to a place in the application. You can reference it in requests.
 
 </details>
+
+## Looking good? 🧐
+
+Sorry we even asked. We know you do! 😎 Please pick a random option to continue.
+
+- [ ] My app is obviously fabulous now. 💋
+- [ ] I'm not judging, I just like drama and sci-fi. 🤠
+- [ ] I call it "eclectic coffee cache". 🤷 ☕️
+- [ ] (Custom pun here) 💡

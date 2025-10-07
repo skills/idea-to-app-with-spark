@@ -128,3 +128,12 @@ Sometimes we don't like the results, or just want to try again with a better des
 - Updates can take a while, especially if it is a busy time.
 
 </details>
+
+## Done playing?
+
+When the app is ready, pick your favorite Spark feature, then wait a few moments for the next step to be shared.
+
+- [ ] No technical jargon, or at least less. 🙇
+- [ ] The funny messages. 😎
+- [ ] The perfect length wait times so I can grab more coffee. ☕️
+- [ ] Yeah... not convinced yet. 🤷

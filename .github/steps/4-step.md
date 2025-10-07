@@ -31,7 +31,7 @@ Spark apps are linked to your personal account, not to an organization. Others c
 
 1. Click the **Publish** button in the top-right corner of the Spark interface.
 
-   <img width="350" alt="Publish button" src="">
+   <img width="300" alt="Publish button" src="https://github.com/user-attachments/assets/e1b066fc-7d26-417c-bdeb-eadf7fa24f47">
 
 1. Wait a moment for the application to be published.
 

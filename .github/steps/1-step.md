@@ -1,5 +1,7 @@
 ## Step 1: Getting Started with Spark
 
+<img width="300px" align="right" alt="GitHub Spark logo" src="1d.png">
+
 You're _that person_, the one with ideas and passion. Maybe sometimes people shake their head and laugh at the thoughts you share. You have the great ideas that could help solve problems or improve processes, but you've never had the technical skills to build them.
 
 Today, you'll discover that with GitHub Spark, your ideas can become real web applications that solve real problems for you. All you need is some niche work/hobby knowledge and a little patience to write down what you want to make (the hardest part).

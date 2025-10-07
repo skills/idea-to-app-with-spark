@@ -54,6 +54,8 @@ Rather than describe some theories of good communication, let's focus on our fun
 
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
 
+   📎 Attachment: [Paper Plate Drawing](1-paper-plate-drawing.png)
+
    ```prompt
    Make an application for dynamically previewing the design of a paper plate.
    This will be used to help communicate with customers.
@@ -115,8 +117,9 @@ Rather than describe some theories of good communication, let's focus on our fun
    - Plates are made out of paper board, not paper (like for writing).
    - You are an expert paper plate designer.
    - You are an expert computer aided drafter.
-
    ```
+
+   📎
 
    </details>
 
@@ -143,7 +146,7 @@ Rather than describe some theories of good communication, let's focus on our fun
 
    </details>
 
-1. Copy your favorite choice and paste it into the description text box, then click the **Submit** button. You will be forward to a page with the chat interface and live preview.
+1. Copy your favorite choice and paste it into the description text box, then **attach** the related example image. Click the **Submit** button. You will be forward to a page with the chat interface and live preview.
 
    <img width="350" alt="Spark start box with example text and highlighted submit button" src="https://github.com/user-attachments/assets/0e6afb14-7791-4741-b2c1-bb788ee5bba1">
 

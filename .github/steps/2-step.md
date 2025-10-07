@@ -6,7 +6,7 @@ Maybe it needs a filter, other data, or another feature for your specific needs.
 
 ### 📖 Theory: Continuous Refinement
 
-One of Spark's most powerful features is the ability to submit changes to continuously refine your project after the initial creation. You can use the chat interface. Unlike traditional software, you don't have to live with a difficult version 1 for 6 months until the next release happens! After a few chats you've might have something super awesome. Just imagine after 6 months! 🧑‍🚀
+One of Spark's most powerful features is the ability to submit changes to continuously refine your project after the initial creation. Similar to the initial description, you can continue chatting and attaching more pictures. Unlike traditional software, you don't have to live with a single version for 6 months until the next release happens! After just a few chats, you might have something super awesome. Just imagine after 6 months! 🧑‍🚀
 
 There are 2 (and a half) primary ways to communicate ideas to Spark:
 

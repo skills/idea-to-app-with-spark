@@ -1,6 +1,6 @@
 ## Step 1: Getting Started with Spark
 
-<img width="300px" align="right" alt="GitHub Spark logo" src="1d.png">
+<img width="300px" align="right" alt="GitHub Spark logo" src="https://github.com/user-attachments/assets/46b8b848-28c3-4726-80d7-fb5be4ebb5f8">
 
 You're _that person_, the one with ideas and passion. Maybe sometimes people shake their head and laugh at the thoughts you share. You have the great ideas that could help solve problems or improve processes, but you've never had the technical skills to build them.
 
@@ -51,7 +51,7 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
    <details>
    <summary>1. Paper Plates - 🍽️ Prototype Designer</summary><br/>
 
-   <img width="500" alt="Screenshot of example generated app for paper plate design" src="1c.png">
+   <img width="500" alt="Screenshot of example generated app for paper plate design" src="https://github.com/user-attachments/assets/0f391330-d324-4f17-9290-3851ef3aed49">
 
    ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
 
@@ -87,14 +87,14 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
 
 1. Copy your favorite choice and paste it into the description text box, then click the **Submit** button.
 
-   <img width="350" alt="Spark start box with example text and highlighted submit button" src="1a.png">
+   <img width="350" alt="Spark start box with example text and highlighted submit button" src="https://github.com/user-attachments/assets/0e6afb14-7791-4741-b2c1-bb788ee5bba1">
 
 1. You will be forward to a page with the chat interface and live preview.
 
    - Your results will likely be different from the example screenshot shared earlier.
    - Notice on the left, that Spark is providing constant feedback about progress.
 
-   <img width="350" alt="Spark chat with live progress information" src="1b.png">
+   <img width="350" alt="Spark chat with live progress information" src="https://github.com/user-attachments/assets/45ded9dc-6744-4a16-ae4f-af25836a5ae8">
 
 1. Wait a few minutes for Spark to finish. Enjoy the playful messages while you wait!
 

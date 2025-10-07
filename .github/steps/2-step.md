@@ -14,7 +14,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 
 2. **Element Selector**: Select a feature in the live preview and use the floating chat box to focus your request to a particular area.
 
-- **Share an Image**: In either of the above chats, attach image of a mock up, or even a hand sketch, to clarify your description.
+&nbsp;&nbsp; 2.5. **Share an Image**: In either of the above chats, attach image of a mock up, or even a hand sketch, to clarify your description.
 
 ### ⌨️ Activity: Add a new feature
 
@@ -25,7 +25,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    <details>
    <summary>🍽️ Paper Plate Designer</summary><br/>
 
-   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=8250df&color=f1e5ff)
 
    ```prompt
    Add support for different shaped plates.
@@ -33,7 +33,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    For all options except round, add a configuration option in the side panel to set "Corner Radius". default: 0.5 inches
    ```
 
-   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=bc4c00&color=ffe7d1)
 
    ```prompt
    The preview area needs to look more like a piece of paper, like a drawing done by the drafting department. Make sure the view includes page borders and a title block. The title block needs a
@@ -44,7 +44,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    <details>
    <summary>☕️ Coffee Shop - Add Customer Interaction</summary><br/>
 
-   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
 
    ```prompt
    Ingredients Filter
@@ -58,7 +58,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    <details>
    <summary>🥍 Lacrosse Coach - Add Progress Analytics</summary><br/>
 
-   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=179b9b&color=c7f5ef)
 
    ```prompt
    Add a progress analytics dashboard that shows improvement trends over time with visual charts. Include comparison tools to see how players rank against team averages.
@@ -76,7 +76,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 
 1. Above the live preview, find the toolbar in the top right.
 
-1. Select the **Select element to edit** button.
+1. Click the **Select element to edit** button.
 
    <img width="350" alt="Select element button" src="https://github.com/user-attachments/assets/9c9dbf82-4cc8-48e8-82dc-eda14d7e6e3f">
 
@@ -86,7 +86,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 
 1. Enter the following text to ask Spark to make the side panel automatically hide when it isn't used:
 
-   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   > ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=8250df&color=f1e5ff)
    >
    > ```prompt
    > This takes up a lot of room.
@@ -111,7 +111,7 @@ Sometimes we don't like the results, or just want to try again with a better des
 
 1. Try updating the "hide panel" feature again with this more specific request.
 
-   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   > ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
    >
    > ```prompt
    > The side panel takes up a lot of room.

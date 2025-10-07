@@ -49,7 +49,7 @@ It's very common to have existing assets, like a company logo, recipe results, o
 
 1. Ask Spark to add the logo to the site.
 
-   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   > ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
    >
    > ```prompt
    > I just uploaded a logo. Please add it to the site.

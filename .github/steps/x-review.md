@@ -19,3 +19,5 @@ Here's a recap of your accomplishments:
 - [Getting Started with GitHub Copilot](https://skills.github.com/skills/copilot) - Explore more AI-powered development tools
 - [GitHub Codespaces documentation](https://docs.github.com/en/codespaces) - Learn more about cloud development environments
 - [GitHub Skills](https://skills.github.com/) - Continue learning with more hands-on exercises
+
+> 💡 **Tip:** Before you start making an AI chatbot for answering support questions, check out Copilot Spaces first.

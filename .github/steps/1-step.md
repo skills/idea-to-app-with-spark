@@ -28,15 +28,13 @@ Spark is:
 > [!IMPORTANT]
 > Spark's [billing](https://docs.github.com/en/copilot/concepts/billing/billing-for-spark) system operates using [Premium Request Units](https://docs.github.com/en/copilot/concepts/billing/copilot-requests#what-are-premium-requests) (PRUs), a quota of monthly allowed usage. Each request to Spark uses 4 PRUs. Don't feel bad about combining your ideas into fewer longer requests. 😎
 
-### Write a good description
+### 📖 Theory: Write a good description
 
 Assuming our friend _Spark_ is shy, likes to avoid questions, but loves to be creative (and explore fun stuff like us), the most important part of getting good results, is clear communication.
 
 We all know starting the app with "Make an app to design paper plates." is pretty generic and probably won't get us what we actually want.
 
 Rather than describe some theories of good communication, let's focus on our fun creative flow, and just get started with an example.
-
-To learn more about Spark's capabilities and billing, check out the [GitHub Spark documentation](https://github.com/features/spark)
 
 > [!TIP]
 > You can use another AI chat tool, like Copilot on GitHub.com, to brainstorm ideas for your app and combine them into a clear plan for Spark to implement.
@@ -54,9 +52,9 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
 
    <img width="500" alt="Screenshot of example generated app for paper plate design" src="https://github.com/user-attachments/assets/0f391330-d324-4f17-9290-3851ef3aed49">
 
-   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
 
-   ```md
+   ```prompt
    Create an application to design a simple paper plate.
    Add a panel on the right with configuration options.
    ```
@@ -66,9 +64,9 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
    <details>
    <summary>2. Coffee Shop - ☕️ Secret Menu</summary><br/>
 
-   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
 
-   ```md
+   ```prompt
    Create an application to help a barista build a secret menu with fellow staff.
    Add a side panel with filters to make it easy to find recipes.
    ```
@@ -78,9 +76,9 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
    <details>
    <summary>3. Lacrosse Coach - 🥍 Player Improvement</summary><br/>
 
-   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=bc4c00&color=ffe7d1)
 
-   ```md
+   ```prompt
    Create an application to track player improvement stats for coaching lacrosse.
    ```
 

@@ -62,9 +62,11 @@ Spark apps are linked to your personal account, not to an organization. Others c
 
 ## Sharing is caring 🎉
 
+<img width="150px" align="right" alt="Founding Father Octocat" src="https://octodex.github.com/images/founding-father.jpg">
+
 Who did you share your game changing app with?
 
 - [ ] A colleague. We love playing with the new tech! 🤓
-- [ ] A friend. We love playing with the new tech! 🤓
+- [ ] A fellow troll. We love trying to break the new tech! 🤓
 - [ ] My secret demo account, haha. 🤣
 - [ ] No one. I play with the new (dangerous) tech alone! 🧑‍🚀

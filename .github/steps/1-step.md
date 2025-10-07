@@ -111,6 +111,8 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
 
 ## App ready?
 
+<img width="100px" align="right" alt="Nyantocat Gif" src="https://octodex.github.com/images/nyantocat.gif">
+
 When your app seems to be ready and working, check the box of the example application you chose to create, then wait a few moments for the next step to be shared.
 
 - [ ] Paper Plates - 🍽️ Prototype Designer

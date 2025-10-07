@@ -131,6 +131,8 @@ Sometimes we don't like the results, or just want to try again with a better des
 
 ## Done playing?
 
+<img width="150px" align="right" alt="Skatetocat" src="https://octodex.github.com/images/skatetocat.png">
+
 When the app is ready, pick your favorite Spark feature, then wait a few moments for the next step to be shared.
 
 - [ ] No technical jargon, or at least less. 🙇

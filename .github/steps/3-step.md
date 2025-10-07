@@ -41,17 +41,20 @@ It's very common to have existing assets, like a company logo, recipe results, o
 
 1. Download one of the below logos that best matches your app.
 
-   | Paper Plate Company              | Coffee Shop Logo                | Lacrosse Mascot |
-   | -------------------------------- | ------------------------------- | --------------- |
+   | Paper Plate Company                                                                                       | Coffee Shop Logo                                                                                         | Lacrosse Mascot |
+   | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------- |
    | ![Mergington Paper Prod](https://github.com/user-attachments/assets/976591b7-7af3-460d-a3db-174c1ef084b6) | ![The Late Commit Cafe](https://github.com/user-attachments/assets/c5149b86-df10-41b2-a772-4fd463b5df19) | ![](3h.png)     |
 
 1. In the left side panel, click the **Upload files** button and choose your file.
 
 1. Ask Spark to add the logo to the site.
 
-   ```md
-   I just uploaded a logo. Please add it to the site. I'll let you decide the best place or multiple places, if that makes sense.
-   ```
+   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   >
+   > ```prompt
+   > I just uploaded a logo. Please add it to the site.
+   > I'll let you decide the best place or multiple places, if that makes sense.
+   > ```
 
 1. Comment below describing what theme changes you made and what data you found in your app. Maybe include a screenshot!
 
@@ -65,8 +68,8 @@ Sometimes it is nice to see the stored information to manually modify it. This a
 
 1. Click on a few of the items to open an editor for changing the values. Here are some examples:
 
-   | JSON Document | Table       |
-   | ------------- | ----------- |
+   | JSON Document                                                                        | Table                                                                                |
+   | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
    | ![](https://github.com/user-attachments/assets/856ffcd3-2b59-4de5-99e9-cfd47b0ec00c) | ![](https://github.com/user-attachments/assets/0d3753ee-9d55-4900-b4bb-f064efeb81d6) |
 
 1. Change a value in one of the tables, then click the **Done** button to save.
@@ -82,6 +85,8 @@ Sometimes it is nice to see the stored information to manually modify it. This a
 </details>
 
 ## Looking good? 🧐
+
+<img width="150px" align="right" alt="Daftpunktocat-Guy" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 Sorry we even asked. We know you do! 😎 Please pick a random option to continue.
 

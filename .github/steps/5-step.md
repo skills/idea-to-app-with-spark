@@ -72,11 +72,16 @@ Like a regular Codespace, you can open it and start coding manually, just like y
 
 </details>
 
-## Play time is over 🥹
+## Play time is over! ✨
 
-How was that? Did you have fun? I hope you _sparked_ some new ideas! ✨ After you answer, you are all done! 🎉
+<img width="150px" align="right" alt="Octonaut" src="https://octodex.github.com/images/octonaut.jpg">
+
+But your journey has just begun! 🚀
+
+How was it? Did you have fun? I hope you _sparked_ some new ideas! ✨
+After you answer, you are all done! Congrats! 🎉
 
 - [ ] Surprisingly fun! 🤓
 - [ ] I prefer a non-committal answer!
 - [ ] Didn't really like it. 👎 (thanks for your honesty)
-- [ ] It was bad. I was basically forced to start an issue to share feedback. 📝
+- [ ] It was bad. I was basically forced to [start an issue](../issues/new) to share feedback. 📝

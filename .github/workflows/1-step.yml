@@ -5,6 +5,8 @@ on:
     types:
       - edited
 
+concurrency: step-1
+
 permissions:
   contents: read
   actions: write
@@ -60,21 +62,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Get response templates
-        uses: actions/checkout@v4
-        with:
-          repository: skills/exercise-toolkit
-          path: exercise-toolkit
-          ref: v0.7.2
+      # - name: Get response templates
+      #   uses: actions/checkout@v4
+      #   with:
+      #     repository: skills/exercise-toolkit
+      #     path: exercise-toolkit
+      #     ref: v0.7.2
 
-      - name: Create comment - step finished
-        uses: GrantBirki/comment@v2.1.1
-        with:
-          repository: ${{ env.ISSUE_REPOSITORY }}
-          issue-number: ${{ env.ISSUE_NUMBER }}
-          file: exercise-toolkit/markdown-templates/step-feedback/step-finished-prepare-next-step.md
-          vars: |
-            next_step_number: 2
+      # - name: Create comment - step finished
+      #   uses: GrantBirki/comment@v2.1.1
+      #   with:
+      #     repository: ${{ env.ISSUE_REPOSITORY }}
+      #     issue-number: ${{ env.ISSUE_NUMBER }}
+      #     file: exercise-toolkit/markdown-templates/step-feedback/step-finished-prepare-next-step.md
+      #     vars: |
+      #       next_step_number: 2
 
       - name: Create comment - add step content
         uses: GrantBirki/comment@v2.1.1
@@ -83,12 +85,12 @@ jobs:
           issue-number: ${{ env.ISSUE_NUMBER }}
           file: ${{ env.STEP_2_FILE }}
 
-      - name: Create comment - watching for progress
-        uses: GrantBirki/comment@v2.1.1
-        with:
-          repository: ${{ env.ISSUE_REPOSITORY }}
-          issue-number: ${{ env.ISSUE_NUMBER }}
-          file: exercise-toolkit/markdown-templates/step-feedback/watching-for-progress.md
+      # - name: Create comment - watching for progress
+      #   uses: GrantBirki/comment@v2.1.1
+      #   with:
+      #     repository: ${{ env.ISSUE_REPOSITORY }}
+      #     issue-number: ${{ env.ISSUE_NUMBER }}
+      #     file: exercise-toolkit/markdown-templates/step-feedback/watching-for-progress.md
 
       - name: Disable current workflow and enable next one
         run: |

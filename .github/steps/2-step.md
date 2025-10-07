@@ -25,13 +25,17 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    <details>
    <summary>🍽️ Paper Plate Designer</summary><br/>
 
-   ```md
+   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+
+   ```prompt
    Add support for different shaped plates.
    Add a configuration option in the side panel to pick shape: Round, Triangle, Square, Pentagon, Hexagon, Octagon.
    For all options except round, add a configuration option in the side panel to set "Corner Radius". default: 0.5 inches
    ```
 
-   ```md
+   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+
+   ```prompt
    The preview area needs to look more like a piece of paper, like a drawing done by the drafting department. Make sure the view includes page borders and a title block. The title block needs a
    ```
 
@@ -40,14 +44,13 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    <details>
    <summary>☕️ Coffee Shop - Add Customer Interaction</summary><br/>
 
-   ```md
-   The available ingredients for the secret menu are constantly changing.
-   Add an area in the side panel that shows all ingredients with checkboxes. If something is unchecked, those items in the menu are dimmed and the word "unavailable" is added.
-   ```
+   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
 
-   ```md
+   ```prompt
+   Ingredients Filter
    The available ingredients for the secret menu are constantly changing.
-   Add an area in the side panel that shows all ingredients with checkboxes. If something is unchecked, those items in the menu are dimmed and the word "unavailable" is added.
+   Add an area in the side panel that shows all ingredients with checkboxes.
+   If something is unchecked, those items in the menu are dimmed and the word "unavailable" is added.
    ```
 
    </details>
@@ -55,7 +58,11 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    <details>
    <summary>🥍 Lacrosse Coach - Add Progress Analytics</summary><br/>
 
-   Try this prompt: "Add a progress analytics dashboard that shows improvement trends over time with visual charts. Include comparison tools to see how players rank against team averages."
+   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+
+   ```prompt
+   Add a progress analytics dashboard that shows improvement trends over time with visual charts. Include comparison tools to see how players rank against team averages.
+   ```
 
    </details>
 
@@ -79,9 +86,12 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 
 1. Enter the following text to ask Spark to make the side panel automatically hide when it isn't used:
 
-   ```md
-   This takes up a lot of room. Can you do something to make it automatically hide and show?
-   ```
+   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   >
+   > ```prompt
+   > This takes up a lot of room.
+   > Can you do something to make it automatically hide and show?
+   > ```
 
    <img width="350" alt="Floating chat box" src="2c.png">
 
@@ -101,9 +111,14 @@ Sometimes we don't like the results, or just want to try again with a better des
 
 1. Try updating the "hide panel" feature again with this more specific request.
 
-   ```md
-   The side panel takes up a lot of room. Can you do something to make it automatically hide and show? I don't want to have to click anything. Just show when I move my mouse near the side.
-   ```
+   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   >
+   > ```prompt
+   > The side panel takes up a lot of room.
+   > Can you do something to make it automatically hide and show?
+   > I don't want to have to click anything.
+   > Just show when I move my mouse near the side.
+   > ```
 
 1. With the hide panel finished, please add an issue comment to let Mona know you are ready for the next step.
 

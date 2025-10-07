@@ -51,8 +51,11 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
 
    <img width="500" alt="Screenshot of example generated app for paper plate design" src="1c.png">
 
+   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+
    ```md
-   Create an application to design a simple paper plate. Add a panel on the right with configuration options.
+   Create an application to design a simple paper plate.
+   Add a panel on the right with configuration options.
    ```
 
    </details>
@@ -60,14 +63,19 @@ To learn more about Spark's capabilities and billing, check out the [GitHub Spar
    <details>
    <summary>2. Coffee Shop - ☕️ Secret Menu</summary><br/>
 
+   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+
    ```md
-   Create an application to help a barista build a secret menu with fellow staff. Add a side panel with filters to make it easy to find recipes.
+   Create an application to help a barista build a secret menu with fellow staff.
+   Add a side panel with filters to make it easy to find recipes.
    ```
 
    </details>
 
    <details>
    <summary>3. Lacrosse Coach - 🥍 Player Improvement</summary><br/>
+
+   ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
 
    ```md
    Create an application to track player improvement stats for coaching lacrosse.

@@ -58,34 +58,64 @@ Rather than describe some theories of good communication, let's focus on our fun
    Make an application for dynamically previewing the design of a paper plate.
    This will be used to help communicate with customers.
 
-   ### Plate Preview
+   ### Plate Drawing Preview
 
-   - The preview is on the left and is dynamically generated from the values in the configuration panel. This is very very important.
-   - There are 2 views: Top View and Front Section View. The attached image shows these example views.
-   - Both views should be shown on the same page.
-   - The front section should show the various dimensions. In the attached example image, the plate geometry is in red and the dimensions are in black.
+   There is a live preview on the left showing a CAD drawing of a paper plate.
 
-   ### Plate configuration panel
+   This drawing must look identical to the attached image of a real drawing.
+   Below are details to understand the attached image:
 
-   - The configuration options are on the right in a panel. It is always visible.
-   - The parameters are the following:
-   - Top out diameter - The maximum diameter from measuring the outside of the plate.
-   - Top in diameter - Intersection of the side wall and the top of the plate.
-   - Bottom out diameter - Intersection of the side wall and the bottom of the plate.
-   - Plate Depth - The measurement from the top to the bottom of the plate.
-   - Bottom Radius - The radius of the transition between the plate bottom and the side wall.
-   - Plate Thickness - Default to 0.018 inches.
-   - Side Wall Angle - The angle between the bottom of the plate and the side wall.
-   - Quick Add Tool - Add a text box below the configuration options with the title "Quick Add". This will be used for copying an email into it that has all the configuration values somewhere. Use AI to scan the email text and automatically fill in the configuration values.
+   - There are 2 views: Top View and Front Section View. The top view is always directly over the front section view. The top view has a line (A) indicating the path of the section view (Section A-A).
+   - The title block is in the bottom right. It includes information about the company, plate design, designer, and date.
+   - Below the drawings is a disclaimer. This text must be exactly the same.
+   - The front section views (Section A-A) show the dimensions.
+   - In the attached example image, the plate geometry is in red and the dimensions are in black.
+   - The placement of the dimensions is somewhat flexible. Just make sure they don't overlap and all clearly have leader lines pointing to the correct location.
+
+   ### Plate Configuration Panel
+
+   There is a configuration panel on the right that provides all configuration options for the design of the plate in the drawing.
+
+   - It is always visible.
+   - The plate design is dynamically generated from the values in the configuration panel. This is very very important.
+
+   The parameters are the following:
+
+   - THICK - The thickness of the paper. Default to 0.018 inches.
+   - PLATE DEPTH - The distance from the top to the bottom of the plate.
+   - TOP OUT DIAMETER - The maximum diameter from measuring the outside of the plate.
+   - TOP IN DIAMETER - Intersection of the theoretical side wall and the top of the plate.
+   - BOTTOM OUT DIAMETER - Intersection of the side wall and the bottom of the plate.
+   - SIDE WALL - The angle between the plate bottom and the plate side.
+   - TOP RADIUS - The transition radius between the plate top and the plate side.
+   - BOTTOM RADIUS - The transition radius between the plate bottom and the plate side.
+   - FLANGE DEPTH - The distance from the top of the plate to the bottom of the the flange.
+   - TURN DOWN - The angle of the flange relative to the plate top.
+   - TURN DOWN RADIUS - The transition radius between the plate top and the flange.
+
+   ### Enhancements
+
+   The following features are independent of the design but must be included.
+
+   1. Saved Designs - Add a "designs" tab in the configuration panel for storing the current and past designs. This will allow the user to quickly switch between designs. Add 3 example plates so the history already has samples to test with.
+
+   1. Export to PDF - A button below the drawing preview. This will open a new page formatted for printing and trigger the print dialog.
+
+   1. Quick Add - Add a text box below the configuration options with the title "Quick Add". This will be used for copying an email into it that has all the configuration values somewhere. Use AI to scan the email text and automatically fill in the configuration values.
 
    ### Other considerations
 
    - All dimensions are in inches by default. Add a toggle for metric (millimeters).
-   - Add a "designs" tab for storing the current and past designs. This will allow the user to quickly switch between designs. Add 3 example plates so the history already has samples to test with.
-   - The interface needs to be beautiful. This is for marketing.
+   - The interface needs to be beautiful. This tool will be used by sales and marketing teams.
    - Make it work best for desktop. Phone does not matter.
-   - The drawing will need to be downloaded as a PDF.
-   - Multiple users will be using this simultaneously. Make sure they can't see each others' designs.
+   - Multiple users will be using this simultaneously. Make sure they can't see each others designs.
+
+   ### Context
+
+   - Plates are made out of paper board, not paper (like for writing).
+   - You are an expert paper plate designer.
+   - You are an expert computer aided drafter.
+
    ```
 
    </details>

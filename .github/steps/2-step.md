@@ -36,7 +36,19 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=bc4c00&color=ffe7d1)
 
    ```prompt
-   The preview area needs to look more like a piece of paper, like a drawing done by the drafting department. Make sure the view includes page borders and a title block. The title block needs a
+   1. Add a 3D viewer that renders the plate in a semi-realistic way.
+
+      - It should be a solid model, not wireframe.
+      - The plate should be floating in space so it can be easily rotated and viewed from different angles.
+
+   2. Add mouse controls to pan, zoom, and rotate.
+
+      - Rotate is controlled by clicking and dragging. Add a toggle to invert rotation.
+      - Pan is controlled by holding ctrl (windows) / cmd (mac) then clicking and dragging.
+      - Zoom is controlled by holding shift then clicking and dragging.
+      - Add a toggle to invert
+
+   3. Add a toggle to show a cross section view.
    ```
 
    </details>

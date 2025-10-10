@@ -70,15 +70,30 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    <details>
    <summary>🥍 Lacrosse Coach - Add Progress Analytics</summary><br/>
 
+   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
+
+   ```prompt
+   Player Notes - Add the below fields for additional tracking.
+
+   - Add a plain text field under each player for capturing notes.
+   - Add a "Sparkles" button counter to give a player kudos. Increment it the same way as the other stats.
+   ```
+
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=179b9b&color=c7f5ef)
 
    ```prompt
-   Add a progress analytics dashboard that shows improvement trends over time with visual charts. Include comparison tools to see how players rank against team averages.
+   Opponent Tracking - Add support for also tracking the opponent.
+
+   - Add an area in the "Setup" page for also managing the opponents team members.
+   - Add an option to set a color for our team. Also show this in the config panel.
+   - Add an option to set a color for the opponent team. Also show this in the config panel.
+   - Modify the "Track Stats" page to make the player cards the matching colors.
+   - Add a setting in the config panel to filter the "Track Stats" page. (Us, Opponent, Both). This way different people can track each team.
    ```
 
    </details>
 
-1. Copy your favorite new change and paste it into the left chat panel, then click the **Submit** button.
+1. Copy your favorite feature and paste it into the left chat panel, then click the **Submit** button.
 
 1. Monitor the left chat panel for live feedback. Wait for Spark to finish then try the new features in the live preview.
 

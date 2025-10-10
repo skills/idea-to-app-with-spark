@@ -139,7 +139,114 @@ Rather than describe some theories of good communication, let's focus on our fun
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=bc4c00&color=ffe7d1)
 
    ```prompt
-   Create an application to track player improvement stats for coaching lacrosse.
+   # Lacrosse Statistics App
+
+   Make an application for tracking statistics for the players of a lacrosse team. This will be used to help coaches optimize team performance.
+
+   App Name: Lacrosse Stats Tracker
+   Team Name: The Cherry Pickers
+
+   ## Application Requirements
+
+   There are 3 tabs for different modes, and a side panel for settings.
+
+   - Setup - Features to manage the team.
+   - Track Stats - Primary entry screen entering stats.
+   - Reports - High level overview of the entire team.
+   - Config Panel - Quickly access to various settings.
+
+   ### Setup
+
+   The Setup page is mainly used for organizing members of the team.
+
+   - It should be easy to edit multiple names.
+   - Provide an option to upload via CSV.
+   - Provide an option to download via CSV.
+   - Provide a "Download Sample CSV" file that provides the required format for uploading.
+   - Ensure support for multiple player positions.
+
+   - Provide a button to clear the stats but not the team.
+   - Provide a button to clear everything.
+   - If importing multiple times, update existing entries without deleting them or associated stats.
+
+   ### Track Stats
+
+   This page is the primary entry screen that allows the coach to enter scores live during the game.
+
+   - Add a tab bar at the top to select the current quarter. Stats are stored associated to it.
+   - Each player has 2 sets of buttons: offensive stats and defensive stats.
+   - It should be easy to find a player and choose a statistic.
+   - It should be easy to increase/decrease a statistic. Example: a `+` button and `-` button
+   - Add a search field to quickly find a player.
+
+   ### Reports
+
+   - Basic game info like: Game Name, Opponent, Date, Location
+   - List top three players for every statistic.
+   - Tables to select report view: Full Game, Q1, Q2, Q3, Q4.
+   - Table showing all statistics.
+   - Include totals for each player and overall for the game.
+   - Button to export as CSV. All reports are included.
+   - Button to save as PDF. All reports are included.
+
+   ### Config Panel
+
+   - It should always be visible for easy access to change settings.
+   - Add a dropdown toggle for display (Light, Dark, System). Default to the current phone's mode.
+   - Readability - Provide 3 settings for easier viewing. (Compact, Spacious, Large Font)
+
+   ### Other considerations
+
+   - Make it work best on phones. This will be used live during games.
+   - The page should never need refreshed to view a change.
+   - A player can have multiple positions. example: SSDM / LSM
+   - Use the exact names for the player details and statistics.
+   - All math for the statistics needs to be 100% accurate. This cannot ever be wrong.
+   - Include sample data for 20 players for easily testing the app.
+   - The Readability setting adjusts the layout for accessibility.
+
+   ## Background on lacrosse
+
+   There are 10 players on the field per team.
+
+   ### Positions
+
+   - There are offensive and defensive players.
+   - Attack and midfield are offense.
+   - Long stick midfielder (LSM) is a cross between offensive and defensive.
+   - Short stick defensive midfielders (SSDM) mostly play defense.
+   - Close defense long poles mostly play defense.
+   - Faceoff players are also called FOGOs.
+   - Goalie
+
+   ### Player Details
+
+   - First Name
+   - Last Name
+   - Number
+   - Position
+   - School Year (Freshman, Sophomore, Junior, Senior)
+   - Hometown (City and State)
+
+   ### Offensive statistics
+
+   - Goals
+   - Assists
+   - Shots
+   - Faceoff Win
+   - Faceoff Loss
+
+   ### Defensive statistics
+
+   - Ground balls (GBs)
+   - Caused turnover (CTO)
+
+   ### Goalie statistics
+
+   These stats are only visible and trackable for people with the "Goalie" position.
+
+   - Goals saved
+   - Goals allowed
    ```
 
    </details>

@@ -43,7 +43,7 @@ It's very common to have existing assets, like a company logo, recipe results, o
 
    | Paper Plate Company                                                                                       | Coffee Shop Logo                                                                                         | Lacrosse Team |
    | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------- |
-   | ![Mergington Paper Prod](https://github.com/user-attachments/assets/976591b7-7af3-460d-a3db-174c1ef084b6) | ![The Late Commit Cafe](https://github.com/user-attachments/assets/c5149b86-df10-41b2-a772-4fd463b5df19) | ![](3h.png)   |
+   | ![Mergington Paper Prod](https://github.com/user-attachments/assets/976591b7-7af3-460d-a3db-174c1ef084b6) | ![The Late Commit Cafe](https://github.com/user-attachments/assets/c5149b86-df10-41b2-a772-4fd463b5df19) | ![](https://github.com/user-attachments/assets/779f9c47-83f5-4e1a-8e8f-e98f7663db27)   |
 
 1. In the left side panel, click the **Upload files** button and choose your file.
 

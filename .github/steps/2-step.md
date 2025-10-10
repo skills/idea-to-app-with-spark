@@ -20,7 +20,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 
 1. Ensure you are at the live preview screen.
 
-1. Below are example ideas to share with Spark.
+1. Below are some example ideas you can ask Spark to implement (or make your own!).
 
    <details>
    <summary>🍽️ Paper Plate Designer</summary><br/>
@@ -85,6 +85,8 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    <img width="350" alt="Spark chat with live progress information" src="https://github.com/user-attachments/assets/652bf9b3-9e22-4575-8980-e8841f3dece5">
 
 ### ⌨️ Activity: Target a specific change
+
+We've realized the side configuration panel in our app is taking up a lot of screen space. Let's have Spark change that for use.
 
 1. Above the live preview, find the toolbar in the top right.
 

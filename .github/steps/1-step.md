@@ -119,8 +119,6 @@ Rather than describe some theories of good communication, let's focus on our fun
    - You are an expert computer aided drafter.
    ```
 
-   📎
-
    </details>
 
    <details>

@@ -15,7 +15,7 @@ Spark provides several ways to customize your application:
 - **Theme customization**: Easy visual adjustments using the Theme pane to modify colors, fonts, spacing, and overall appearance
 - **Asset management**: Upload and incorporate images, logos, or other files into your application
 - **Data storage**: Spark automatically provides key-value storage for your app's data, with a built-in interface to view and manage stored information
-- **AI capabilities**: Embed intelligent features like chat bots, content generation, and smart automation without complex integrations
+<!-- - **AI capabilities**: Embed intelligent features like chat bots, content generation, and smart automation without complex integrations -->
 
 ### ⌨️ Activity: Personalize Your Design
 

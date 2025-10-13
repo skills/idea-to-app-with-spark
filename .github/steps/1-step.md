@@ -2,42 +2,44 @@
 
 <img width="300px" align="right" alt="GitHub Spark logo" src="https://github.com/user-attachments/assets/46b8b848-28c3-4726-80d7-fb5be4ebb5f8">
 
-You're _that person_, the one with ideas and passion. Maybe sometimes people shake their head and laugh at the thoughts you share. You have the great ideas that could help solve problems or improve processes, but you've never had the technical skills to build them.
+You're _that person_, the one with passion and too many ideas.
+You have the great ideas that could help solve problems or improve processes, but you've never had the technical skills to build them.
 
-Today, you'll discover that with GitHub Spark, your ideas can become real web applications that solve real problems for you. All you need is some niche work/hobby knowledge and a little patience to write down what you want to make (the hardest part).
+Today, you'll discover that with **GitHub Spark**, your ideas can become real web applications that solve real problems for you. All you need is some niche work/hobby knowledge and a little patience to write down what you want to make (the hardest part).
 
-### 📖 Theory: Describing what you want
+### 📖 Theory: What is Spark?
 
 GitHub Spark is designed for non-coders, really! 😎
 
-It provides everything needed to make your web application and use it, no confusing coder talk at all. From this point on, think of _"Spark"_ as the nickname of a **new** friend/coworker.
+It provides everything needed to make your web application and use it, no confusing coder talk at all.
+From this point on, think of _"Spark"_ as the nickname of a **new** friend/coworker.
 
-That sounds like marketing fluff, _but we mean it._
+That sounds like marketing fluff, _but we mean it! ✨_
 
-Like a new coworker/friend, they will understand the basics of your field well, but not any private jargon and the frustrating problems. And... in familiar human style, they will avoid asking questions and just take creative liberty when you don't describe something well. (We all love that! 😅)
+When a new coworker joins the team, they will probably understand the common fundamentals of your field well. However, they likely don't understand internal jargon, your specific challenges, and the team's goals. Spark is the same way, just faster! 🚀 So, chat a bit, watch the preview update, try to break it, share feedback, repeat.
 
-Spark is the same way, just faster! 🚀 So, chat a bit, watch the preview update, try to break it, share feedback, repeat.
+Also... in familiar human style, Spark will often avoid asking questions and just take creative liberty when you don't describe something well. (We all love that! 😅)
 
-Spark is:
+In short, Spark is:
 
-- **No technical jargon** - Build like working with another person. No special words required (unless you want to).
+- **No software jargon** - Collaborate like you would with another person. No special software words required (unless you want to).
 - **Live preview** - See changes automatically, in minutes, for evolving fast.
 - **No systems to manage** - Everything is included. Don't worry about the infrastructure.
-<!-- - **Prototyping pro** - You can submit the same description multiple times in parallel to get different results. -->
+- **Fast** - Minutes to a prototype. Not days.
 
 > [!IMPORTANT]
 > Spark's [billing](https://docs.github.com/en/copilot/concepts/billing/billing-for-spark) system operates using [Premium Request Units](https://docs.github.com/en/copilot/concepts/billing/copilot-requests#what-are-premium-requests) (PRUs), a quota of monthly allowed usage. Each request to Spark uses 4 PRUs. Don't feel bad about combining your ideas into fewer longer requests. 😎
 
 ### 📖 Theory: Write a good description
 
-Assuming our friend _Spark_ is shy, likes to avoid questions, but loves to be creative (and explore fun stuff like us), the most important part of getting good results, is clear communication.
+Assuming our friend _Spark_ is shy, likes to avoid questions, but loves to be creative and explore fun stuff (like us), the most important part of getting good results is: clear communication
 
 We all know starting the app with "Make an app to design paper plates." is pretty generic and probably won't get us what we actually want.
 
-Rather than describe some theories of good communication, let's focus on our fun creative flow, and just get started with an example.
+Rather than describe some theories of good communication, let's focus on the fun creative flow, and just get started with an example.
 
 > [!TIP]
-> You can use another AI chat tool, like Copilot on GitHub.com, to brainstorm ideas for your app and combine them into a clear plan for Spark to implement.
+> Use another AI chat tool, like [Copilot on GitHub.com](https://github.com/copilot), to brainstorm ideas for your app and build a clear plan for Spark to implement.
 
 ### ⌨️ Activity: Explore Spark and Create Your First App
 
@@ -45,7 +47,7 @@ Rather than describe some theories of good communication, let's focus on our fun
 
    [![](https://img.shields.io/badge/✨%20Open%20Spark-%E2%86%92-f1e5ff?style=for-the-badge&labelColor=ce2c85&color=f8e5ff)](https://github.com/spark)
 
-1. Read the below sample application descriptions and pick your favorite.
+1. Read the below sample application descriptions. Decide which you like best.
 
    <details>
    <summary>1. Paper Plates - 🍽️ Prototype Designer</summary><br/>
@@ -134,6 +136,8 @@ Rather than describe some theories of good communication, let's focus on our fun
    </details>
 
    <details>
+   <summary>3. Lacrosse - 🥍 Stats Tracker</summary><br/>
+
    <summary>3. Lacrosse Coach - 🥍 Player Improvement</summary><br/>
 
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=bc4c00&color=ffe7d1)
@@ -251,20 +255,22 @@ Rather than describe some theories of good communication, let's focus on our fun
 
    </details>
 
-1. Copy your favorite choice and paste it into the description text box, then **attach** the related example image. Click the **Submit** button. You will be forward to a page with the chat interface and live preview.
+1. Copy your favorite choice and paste it into the description text box. Click the **Submit** button. You will be forward to a page with the chat interface and live preview.
 
    <img width="350" alt="Spark start box with example text and highlighted submit button" src="https://github.com/user-attachments/assets/0e6afb14-7791-4741-b2c1-bb788ee5bba1">
 
-1. In the left chat panel, notice that Spark is providing constant feedback about progress of your app.
+1. In the left chat panel, notice that Spark is providing live feedback about the progress of your app.
 
    <img width="350" alt="Spark chat with live progress information" src="https://github.com/user-attachments/assets/45ded9dc-6744-4a16-ae4f-af25836a5ae8">
 
-1. Wait a few minutes for Spark to finish. Enjoy the playful messages while you wait! Note: Your results will likely be different from the example screenshot shared earlier.
+1. Wait a few minutes for Spark to finish. Enjoy the playful messages while you wait!
+
+   > 🪧**Note:** Your results will likely be different from the example screenshot shared earlier.
 
    <img width="350" alt="Playful messages with sparkles decoration" src="https://github.com/user-attachments/assets/46ca83de-22e0-47ca-b54c-e6acf975c7b9">
 
 > [!TIP]
-> If you start multiple Spark apps with the same or similar descriptions, you'll get different results. A great way to explore parallel ideas! But be careful, that will also use up your quota quickly too!
+> If you start multiple Spark apps with the same or similar descriptions, you'll get different results. A great way to explore parallel ideas! But be careful, it will also use up your quota quickly too!
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
@@ -282,5 +288,5 @@ When your app seems to be ready and working, check the box of the example applic
 
 - [ ] Paper Plates - 🍽️ Prototype Designer
 - [ ] Coffee Shop - ☕️ Secret Menu
-- [ ] Lacrosse Coach - 🥍 Player Improvement
-- [ ] My Own - Nice! 🦄 🧙
+- [ ] Lacrosse - 🥍 Stats Tracker
+- [ ] My Own - Future Famous App! 🦄 🧙

@@ -1,12 +1,18 @@
 ## Step 2: Revise and Edit Your App
 
-After playing with your new app, it probably didn't take long to realize you forgot something or come up with some cool new ideas to make it even better.
+<img height="150px" align="right" src="https://octodex.github.com/images/mcefeeline.jpg">
 
-Maybe it needs a filter, other data, or another feature for your specific needs. The great news is that you can continue to improve your app just by talking to Spark, again with normal language (and that niche work/hobby jargon you taught Spark).
+After playing with your new app, it probably didn't take long to realize you forgot something. Or... come up with some fun new ideas to make the app even better!
+
+Here's the good news. You can continue to improve your app just by talking to Spark, again with normal language (and that niche work/hobby jargon you taught Spark).
 
 ### 📖 Theory: Continuous Refinement
 
-One of Spark's most powerful features is the ability to submit changes to continuously refine your project after the initial creation. Similar to the initial description, you can continue chatting and attaching more pictures. Unlike traditional software, you don't have to live with a single version for 6 months until the next release happens! After just a few chats, you might have something super awesome. Just imagine after 6 months! 🧑‍🚀
+One of Spark's most powerful features is the ability to continuously submit changes to further enhance your project.
+
+Unlike traditional software, you don't have to submit lots of "feature requests" and "bug reports" then live with the current version for another 6 months until another release happens! (and hope they fixed your problem 😒)
+
+After just a few chats on day one, you might have something really useful, maybe even awesome! Just imagine after 6 months! 🧑‍🚀
 
 There are 2 (and a half) primary ways to communicate ideas to Spark:
 
@@ -20,10 +26,10 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 
 1. Ensure you are at the live preview screen.
 
-1. Below are some example ideas you can ask Spark to implement (or make your own!).
+1. Below are some example ideas you can ask Spark to implement. Alternately, you can make your own!.
 
    <details>
-   <summary>🍽️ Paper Plate Designer</summary><br/>
+   <summary>Paper Plates - 🍽️ Prototype Designer</summary><br/>
 
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=8250df&color=f1e5ff)
 
@@ -65,7 +71,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    </details>
 
    <details>
-   <summary>☕️ Coffee Shop - Add Customer Interaction</summary><br/>
+   <summary>Coffee Shop - ☕️ Secret Menu</summary><br/>
 
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
 
@@ -79,7 +85,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    </details>
 
    <details>
-   <summary>🥍 Lacrosse Coach - Add Progress Analytics</summary><br/>
+   <summary>Lacrosse - 🥍 Stats Tracker</summary><br/>
 
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
 
@@ -104,23 +110,26 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 
    </details>
 
-1. Copy your favorite feature and paste it into the left chat panel, then click the **Submit** button.
+1. Copy your favorite feature into the left chat panel. Click the **Submit** button.
 
-1. Monitor the left chat panel for live feedback. Wait for Spark to finish then try the new features in the live preview.
+1. Monitor the left chat panel for live feedback. Wait for Spark to finish.
 
    <img width="350" alt="Spark chat with live progress information" src="https://github.com/user-attachments/assets/652bf9b3-9e22-4575-8980-e8841f3dece5">
 
+1. (optional) Try testing the new features in the live preview. If they don't work like you expect, consider submitting followup feedback.
+
+> [!NOTE]
+> Some file-based features like "Download PDF" don't currently work in the live preview, but do work after publishing.
+
 ### ⌨️ Activity: Target a specific change
 
-We've realized the side configuration panel in our app is taking up a lot of screen space. Let's have Spark change that for use.
+We've realized the side configuration panel in our app is taking up a lot of screen space. Let's have Spark fix that for us.
 
-1. Above the live preview, find the toolbar in the top right.
-
-1. Click the **Select element to edit** button.
+1. Above the live preview, find the toolbar in the top right. Click the **Select element to edit** button.
 
    <img width="350" alt="Select element button" src="https://github.com/user-attachments/assets/9c9dbf82-4cc8-48e8-82dc-eda14d7e6e3f">
 
-1. Hover over and click on the right side panel to highlight it, and show a chat box.
+1. Hover over the right side panel. Click on it to highlight it. A chat box will appear.
 
    <img width="350" alt="Select element button" src="https://github.com/user-attachments/assets/2f5a3d9a-30d1-4c8b-aa01-b208c63b65ec">
 
@@ -141,7 +150,7 @@ We've realized the side configuration panel in our app is taking up a lot of scr
 
 Sometimes we don't like the results, or just want to try again with a better description.
 
-1. In the left chat panel, notice there are dots on a vertical timeline, one for each task.
+1. In the left chat panel, notice there is a vertical timeline. One entry for each requested change.
 
 1. Find the previous task, hover over it, and click the **Restore** button.
 
@@ -149,18 +158,16 @@ Sometimes we don't like the results, or just want to try again with a better des
 
 1. Wait a moment for the live preview to update.
 
-1. Try updating the "hide panel" feature again with this more specific request.
+1. Let's try updating the "hide panel" feature again with a more specific description. In the left chat panel, submit the below request:
 
-   > ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
-   >
-   > ```prompt
-   > The side panel takes up a lot of room.
-   > Can you do something to make it automatically hide and show?
-   > I don't want to have to click anything.
-   > Just show when I move my mouse near the side.
-   > ```
-
-1. With the hide panel finished, please add an issue comment to let Mona know you are ready for the next step.
+> ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
+>
+> ```prompt
+> The side panel takes up a lot of room.
+> Can you do something to make it automatically hide and show?
+> I don't want to have to click anything.
+> Just show when I move my mouse near the side.
+> ```
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>

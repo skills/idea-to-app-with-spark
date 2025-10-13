@@ -1,30 +1,30 @@
-## Step 5: (Optional) Advanced Features and Code
+## Step 5: (Optional) Advanced Coder Features
 
-You're amazed at what you've built (and so fast), but what's happening behind the scenes?
+<img height="150px" align="right" src="https://octodex.github.com/images/securitocat.png">
+
+You're amazed at what you have built (and so fast), but what's happening behind the scenes?
 
 Let's explore some of the more coder-oriented features. Maybe this is indeed the _Spark_ of something cooler to come. 🧑‍🚀🚀
 
-Or... maybe you are a just coder and want to change things manually. 👨‍💻
+Or... maybe you are a hands-on coder and want to change something manually. 👨‍💻
 
 > [!NOTE]
-> This step is entirely optional. You can skip straight to the end if you like.
+> This step is **100% optional**. You can skip straight to the end if you like.
 > This step is deliberately more technical for the software developers.
 
-### 📖 Theory: Open the Codespace
+### 📖 Theory: Automatic Development Environment
 
-Behind every Spark application is a complete codebase running in a cloud-based development environment called a [GitHub Codespace](https://github.com/skills-dev/code-with-codespaces).
+Behind every Spark application, there is a complete codebase running in a cloud-based development environment known as [GitHub Codespace](https://github.com/skills-dev/code-with-codespaces).
 
-Like a regular Codespace, you can open it and start coding manually, just like you do on your regular projects. This provides several advanced capabilities:
+Like a all Codespaces, you can open it and start coding manually just like you do on your normal projects. This provides several advanced capabilities:
 
 - **Code Editing**: View the actual code and assets that power your application and modify it.
 - **Copilot**: Use GitHub Copilot Chat for code assistance and explanations.
-- **Repository creation**: Save your Spark project as a permanent GitHub repository for version control and collaboration
+- **Repository creation**: Save your Spark project as a permanent GitHub repository for version control and collaboration.
 
 ### ⌨️ Activity: Explore the Codespace
 
-1. Above the live preview, in the top right, find the toolbar.
-
-1. Click the **Three dot (...)** button and select the **Open codespaces** option.
+1. Above the live preview, in the top right, find the toolbar. Click the **Three dot (...)** button and select the **Open codespaces** option.
 
    <img width="350" alt="Open codespace button" src="https://github.com/user-attachments/assets/fd1cdb41-24ce-4312-bc32-990b76dd6283">
 
@@ -47,11 +47,9 @@ Like a regular Codespace, you can open it and start coding manually, just like y
 
    <img width="350" alt="Manuel edit added to left chat panel" src="https://github.com/user-attachments/assets/b06eccb0-644e-4562-918f-3f2253004ddb">
 
-### ⌨️ Activity: Save to Repository
+### ⌨️ Activity: Save to a Repository
 
-1. Above the live preview, in the top right, find the toolbar.
-
-1. Click the **Three dot (...)** button and select the **Create repository** option.
+1. Above the live preview, in the top right, find the toolbar. Click the **Three dot (...)** button and select the **Create repository** option.
 
    <img width="350" alt="Create repository button" src="https://github.com/user-attachments/assets/ad91575a-0906-48e4-8f76-9d06ae95035e">
 
@@ -68,7 +66,7 @@ Like a regular Codespace, you can open it and start coding manually, just like y
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
-- If the **Open Codespace** and **Create repository** options are unavailable, please wait a moment for Spark to finish working.
+- If the **Open Codespace** and **Create repository** options are unavailable, please wait a moment and try again. Spark will temporarily disable these during important operations.
 
 </details>
 
@@ -76,9 +74,9 @@ Like a regular Codespace, you can open it and start coding manually, just like y
 
 <img width="150px" align="right" alt="Octonaut" src="https://octodex.github.com/images/octonaut.jpg">
 
-But your journey has just begun! 🚀
+Your journey has just begun! 🚀
 
-How was it? Did you have fun? I hope you _sparked_ some new ideas! ✨
+How was it? Did you have fun or _spark_ some new ideas?! ✨
 After you answer, you are all done! Congrats! 🎉
 
 - [ ] Surprisingly fun! 🤓

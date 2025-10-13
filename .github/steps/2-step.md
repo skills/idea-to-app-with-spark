@@ -33,6 +33,17 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    For all options except round, add a configuration option in the side panel to set "Corner Radius". default: 0.5 inches
    ```
 
+   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=179b9b&color=c7f5ef)
+
+   📎 Attachment: [Example Paper Plate Drawing](https://github.com/user-attachments/assets/8fbc27db-1dc8-4ef6-a85d-7e732d7f88f1)
+
+   ```prompt
+   I've attached an example drawing.
+   Several dimensions are not shown on the drawings.
+   Some dimensions are in the incorrect locations.
+   Please change the top view and front section view to use the same dimensions, locations, and fonts as the example drawing.
+   ```
+
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=bc4c00&color=ffe7d1)
 
    ```prompt

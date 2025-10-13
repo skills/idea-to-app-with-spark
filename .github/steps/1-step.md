@@ -138,7 +138,7 @@ Rather than describe some theories of good communication, let's focus on the fun
    <details>
    <summary>3. Lacrosse - 🥍 Stats Tracker</summary><br/>
 
-   <img width="500" alt="Screenshot of example generated app for lacrosse" src="1-lacrosse.png">
+   <img width="500" alt="Screenshot of example generated app for lacrosse" src="https://github.com/user-attachments/assets/c750bbf2-bccd-4147-b6fa-66bffe964674">
 
    ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=bc4c00&color=ffe7d1)
 

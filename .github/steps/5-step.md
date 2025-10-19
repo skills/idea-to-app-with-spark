@@ -12,19 +12,23 @@ Or... maybe you are a hands-on coder and want to change something manually. 👨
 > This step is **100% optional**. You can skip straight to the end if you like.
 > This step is deliberately more technical for the software developers.
 
-### 📖 Theory: Automatic Development Environment
+### 📖 Theory: Easy Development Environment
 
-Behind every Spark application, there is a complete codebase running in a cloud-based development environment known as [GitHub Codespace](https://github.com/skills-dev/code-with-codespaces).
+Behind every Spark application, there is a complete codebase running in a cloud-based development environment known as [GitHub Codespace](https://github.com/features/codespaces), and naturally it is being managed with Git version control.
 
-Like a all Codespaces, you can open it and start coding manually just like you do on your normal projects. This provides several advanced capabilities:
+Like all Codespaces, you can open it and start coding manually just like you do on your normal projects. This provides several advanced capabilities:
 
 - **Code Editing**: View the actual code and assets that power your application and modify it.
 - **Copilot**: Use GitHub Copilot Chat for code assistance and explanations.
 - **Repository creation**: Save your Spark project as a permanent GitHub repository for version control and collaboration.
 
+> [!NOTE]
+> Want to learn more about Codespaces?  
+> Try the [Skills Exercise](https://github.com/skills-dev/code-with-codespaces) or explore the [Docs](https://docs.github.com/en/codespaces/quickstart).
+
 ### ⌨️ Activity: Explore the Codespace
 
-1. Above the live preview, in the top right, find the toolbar. Click the **Three dot (...)** button and select the **Open codespaces** option.
+1. Above the live preview, in the top right, find the toolbar. Click the **Three dot (...)** button and select the **Open codespace** option.
 
    <img width="350" alt="Open codespace button" src="https://github.com/user-attachments/assets/fd1cdb41-24ce-4312-bc32-990b76dd6283">
 
@@ -34,13 +38,14 @@ Like a all Codespaces, you can open it and start coding manually just like you d
 
    <img width="350" alt="PRD file example" src="https://github.com/user-attachments/assets/3b000513-acd7-4188-85e7-4ee1ac543443">
 
-1. Expand the **Copilot Chat Panel** and ask Copilot to change the application title.
+1. Expand the **Copilot Chat Panel**. Verify you are in **Agent** mode, then ask Copilot to change the application title.
 
-   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   > ![Static Badge](https://img.shields.io/badge/-Spark%20Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
    > #codebase
-   > Please make the application title more inviting.
+   > Please make the application's title more inviting.
+   > Make sure it is updated in all places.
    > ```
 
 1. Navigate back to the Spark page. Notice that the live preview is updated and a `Manual edit` entry was added to the left chat panel.

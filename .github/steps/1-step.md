@@ -50,11 +50,155 @@ Rather than describe some theories of good communication, let's focus on the fun
 1. Read the below sample application descriptions. Decide which you like best.
 
    <details>
-   <summary>1. Paper Plates - 🍽️ Prototype Designer</summary><br/>
+   <summary>1. Coffee Shop - ☕️ Secret Menu (short)</summary><br/>
+
+   Sometimes, we want to get started quickly and are flexible with the outcome. Here is an example of a very open-ended prompt. If you like this one, paste it into the description text box and click the **Submit** button.
+
+   <img width="500" alt="Screenshot of example generated app for coffee shop" src="1b.png">
+
+   ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
+
+   ```prompt
+   Create an application to help a barista build a secret menu with fellow staff.
+   Add a side panel with filters to make it easy to find recipes.
+   ```
+
+   </details>
+
+   ***
+
+   <details>
+   <summary>2. Lacrosse - 🥍 Stats Tracker (regular)</summary><br/>
+
+   Maybe you have lots of notes and specific requirements. Here is an example of something more detailed. If you like this one, paste it into the description text box and click the **Submit** button.
+
+   <img width="500" alt="Screenshot of example generated app for lacrosse" src="https://github.com/user-attachments/assets/c750bbf2-bccd-4147-b6fa-66bffe964674">
+
+   ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=bc4c00&color=ffe7d1)
+
+   ```prompt
+   # Lacrosse Statistics App
+
+   Make an application for tracking statistics for the players of a lacrosse team. This will be used to help coaches optimize team performance.
+
+   App Name: Lacrosse Stats Tracker
+   Team Name: The Cherry Pickers
+
+   ## Application Requirements
+
+   There are 3 tabs for different modes, and a side panel for settings.
+
+   - Setup - Features to manage the team.
+   - Track Stats - Primary entry screen entering stats.
+   - Reports - High level overview of the entire team.
+   - Config Panel - Quickly access to various settings.
+
+   ### Setup
+
+   The Setup page is mainly used for organizing members of the team.
+
+   - It should be easy to edit multiple names.
+   - Provide an option to upload via CSV.
+   - Provide an option to download via CSV.
+   - Provide a "Download Sample CSV" file that provides the required format for uploading.
+   - Ensure support for multiple player positions.
+
+   - Provide a button to clear the stats but not the team.
+   - Provide a button to clear everything.
+   - If importing multiple times, update existing entries without deleting them or associated stats.
+
+   ### Track Stats
+
+   This page is the primary entry screen that allows the coach to enter scores live during the game.
+
+   - Add a tab bar at the top to select the current quarter. Stats are stored associated to it.
+   - Each player has 2 sets of buttons: offensive stats and defensive stats.
+   - It should be easy to find a player and choose a statistic.
+   - It should be easy to increase/decrease a statistic. Example: a `+` button and `-` button
+   - Add a search field to quickly find a player.
+
+   ### Reports
+
+   - Basic game info like: Game Name, Opponent, Date, Location
+   - List top three players for every statistic.
+   - Tables to select report view: Full Game, Q1, Q2, Q3, Q4.
+   - Table showing all statistics.
+   - Include totals for each player and overall for the game.
+   - Button to export as CSV. All reports are included.
+   - Button to save as PDF. All reports are included.
+
+   ### Config Panel
+
+   - It should always be visible on the right side of the page, for easy access to change settings.
+   - Add a dropdown toggle for display (Light, Dark, System). Default to the current phone's mode.
+   - Readability - Provide 3 settings for easier viewing. (Compact, Spacious, Large Font)
+
+   ### Other considerations
+
+   - Make it work best on phones. This will be used live during games.
+   - The page should never need refreshed to view a change.
+   - A player can have multiple positions. example: SSDM / LSM
+   - Use the exact names for the player details and statistics.
+   - All math for the statistics needs to be 100% accurate. This cannot ever be wrong.
+   - Include sample data for 20 players for easily testing the app.
+   - The Readability setting adjusts the layout for accessibility.
+
+   ## Background on lacrosse
+
+   There are 10 players on the field per team.
+
+   ### Positions
+
+   - There are offensive and defensive players.
+   - Attack and midfield are offense.
+   - Long stick midfielder (LSM) is a cross between offensive and defensive.
+   - Short stick defensive midfielders (SSDM) mostly play defense.
+   - Close defense long poles mostly play defense.
+   - Faceoff players are also called FOGOs.
+   - Goalie
+
+   ### Player Details
+
+   - First Name
+   - Last Name
+   - Number
+   - Position
+   - School Year (Freshman, Sophomore, Junior, Senior)
+   - Hometown (City and State)
+
+   ### Offensive statistics
+
+   - Goals
+   - Assists
+   - Shots
+   - Faceoff Win
+   - Faceoff Loss
+
+   ### Defensive statistics
+
+   - Ground balls (GBs)
+   - Caused turnover (CTO)
+
+   ### Goalie statistics
+
+   These stats are only visible and trackable for people with the "Goalie" position.
+
+   - Goals saved
+   - Goals allowed
+   ```
+
+   </details>
+
+   ***
+
+   <details>
+   <summary>3. Paper Plates - 🍽️ Prototype Designer (long)</summary><br/>
+
+   Is your requirement very technically specific? Here's an example that also attaches an image. If you like this one, paste it into the description text box and click the **Submit** button.
 
    <img width="500" alt="Screenshot of example generated app for paper plate design" src="https://github.com/user-attachments/assets/c1b6359f-3104-4250-9e63-8ca3a9a86e3d">
 
-   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
+   ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
 
    📎 Attachment: [Example Paper Plate Drawing](https://github.com/user-attachments/assets/8fbc27db-1dc8-4ef6-a85d-7e732d7f88f1) (optional)
 
@@ -123,139 +267,18 @@ Rather than describe some theories of good communication, let's focus on the fun
 
    </details>
 
-   <details>
-   <summary>2. Coffee Shop - ☕️ Secret Menu</summary><br/>
+   ***
 
-   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
-
-   ```prompt
-   Create an application to help a barista build a secret menu with fellow staff.
-   Add a side panel with filters to make it easy to find recipes.
-   ```
-
-   </details>
+1. You will be forward to a page with the chat interface and live preview.
 
    <details>
-   <summary>3. Lacrosse - 🥍 Stats Tracker</summary><br/>
+   <summary>🐛 Did you get an error message? </summary>
 
-   <img width="500" alt="Screenshot of example generated app for lacrosse" src="https://github.com/user-attachments/assets/c750bbf2-bccd-4147-b6fa-66bffe964674">
+   Sometimes Spark can get a bit _too_ ambitious and break things. When this happens, they can usually be fixed by clicking the **Fix all** button.
 
-   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=bc4c00&color=ffe7d1)
-
-   ```prompt
-   # Lacrosse Statistics App
-
-   Make an application for tracking statistics for the players of a lacrosse team. This will be used to help coaches optimize team performance.
-
-   App Name: Lacrosse Stats Tracker
-   Team Name: The Cherry Pickers
-
-   ## Application Requirements
-
-   There are 3 tabs for different modes, and a side panel for settings.
-
-   - Setup - Features to manage the team.
-   - Track Stats - Primary entry screen entering stats.
-   - Reports - High level overview of the entire team.
-   - Config Panel - Quickly access to various settings.
-
-   ### Setup
-
-   The Setup page is mainly used for organizing members of the team.
-
-   - It should be easy to edit multiple names.
-   - Provide an option to upload via CSV.
-   - Provide an option to download via CSV.
-   - Provide a "Download Sample CSV" file that provides the required format for uploading.
-   - Ensure support for multiple player positions.
-
-   - Provide a button to clear the stats but not the team.
-   - Provide a button to clear everything.
-   - If importing multiple times, update existing entries without deleting them or associated stats.
-
-   ### Track Stats
-
-   This page is the primary entry screen that allows the coach to enter scores live during the game.
-
-   - Add a tab bar at the top to select the current quarter. Stats are stored associated to it.
-   - Each player has 2 sets of buttons: offensive stats and defensive stats.
-   - It should be easy to find a player and choose a statistic.
-   - It should be easy to increase/decrease a statistic. Example: a `+` button and `-` button
-   - Add a search field to quickly find a player.
-
-   ### Reports
-
-   - Basic game info like: Game Name, Opponent, Date, Location
-   - List top three players for every statistic.
-   - Tables to select report view: Full Game, Q1, Q2, Q3, Q4.
-   - Table showing all statistics.
-   - Include totals for each player and overall for the game.
-   - Button to export as CSV. All reports are included.
-   - Button to save as PDF. All reports are included.
-
-   ### Config Panel
-
-   - It should always be visible for easy access to change settings.
-   - Add a dropdown toggle for display (Light, Dark, System). Default to the current phone's mode.
-   - Readability - Provide 3 settings for easier viewing. (Compact, Spacious, Large Font)
-
-   ### Other considerations
-
-   - Make it work best on phones. This will be used live during games.
-   - The page should never need refreshed to view a change.
-   - A player can have multiple positions. example: SSDM / LSM
-   - Use the exact names for the player details and statistics.
-   - All math for the statistics needs to be 100% accurate. This cannot ever be wrong.
-   - Include sample data for 20 players for easily testing the app.
-   - The Readability setting adjusts the layout for accessibility.
-
-   ## Background on lacrosse
-
-   There are 10 players on the field per team.
-
-   ### Positions
-
-   - There are offensive and defensive players.
-   - Attack and midfield are offense.
-   - Long stick midfielder (LSM) is a cross between offensive and defensive.
-   - Short stick defensive midfielders (SSDM) mostly play defense.
-   - Close defense long poles mostly play defense.
-   - Faceoff players are also called FOGOs.
-   - Goalie
-
-   ### Player Details
-
-   - First Name
-   - Last Name
-   - Number
-   - Position
-   - School Year (Freshman, Sophomore, Junior, Senior)
-   - Hometown (City and State)
-
-   ### Offensive statistics
-
-   - Goals
-   - Assists
-   - Shots
-   - Faceoff Win
-   - Faceoff Loss
-
-   ### Defensive statistics
-
-   - Ground balls (GBs)
-   - Caused turnover (CTO)
-
-   ### Goalie statistics
-
-   These stats are only visible and trackable for people with the "Goalie" position.
-
-   - Goals saved
-   - Goals allowed
-   ```
+   <img width="350px" alt="Screenshot of Fix All button" src="1a.png" />
 
    </details>
-
-1. Copy your favorite choice and paste it into the description text box. Click the **Submit** button. You will be forward to a page with the chat interface and live preview.
 
    <img width="350" alt="Spark start box with example text and highlighted submit button" src="https://github.com/user-attachments/assets/0e6afb14-7791-4741-b2c1-bb788ee5bba1">
 
@@ -284,7 +307,7 @@ Rather than describe some theories of good communication, let's focus on the fun
 
 <img width="100px" align="right" alt="Nyantocat Gif" src="https://octodex.github.com/images/nyantocat.gif">
 
-When your app seems to be ready and working, check the box of the example application you chose to create, then wait a few moments for the next step to be shared.
+When your app seems to be ready and working, check the box of your favorite example application, then wait a few moments for the next step to be shared.
 
 - [ ] Paper Plates - 🍽️ Prototype Designer
 - [ ] Coffee Shop - ☕️ Secret Menu

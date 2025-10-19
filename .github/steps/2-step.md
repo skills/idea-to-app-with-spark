@@ -6,6 +6,9 @@ After playing with your new app, it probably didn't take long to realize you for
 
 Here's the good news. You can continue to improve your app just by talking to Spark, again with normal language (and that niche work/hobby jargon you taught Spark).
 
+> [!NOTE]
+> For demonstration purposes in the remaining steps, we'll use the Paper Plate designer app.
+
 ### 📖 Theory: Continuous Refinement
 
 One of Spark's most powerful features is the ability to continuously submit changes to further enhance your project.
@@ -22,6 +25,19 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 
 &nbsp;&nbsp; 2.5. **Share an Image**: In either of the above chats, attach image of a mock up, or even a hand sketch, to clarify your description.
 
+Here are some example situations you might explore (later). 🧐
+
+- Improve an existing feature.
+- Add a new buggy feature, then fix it.
+- Break something accidentally then "undo" to fix it.
+- Remove a feature you don't need anymore.
+  <!-- - Simplifying an interface by using AI -->
+  <!-- - Generating results using AI -->
+
+> [!TIP]
+> Your application doesn't need to limit itself to only 1 way to solve a problem.
+> Consider adding multiple techniques at the same time to try them, then just remove the unused things later! 🧪
+
 ### ⌨️ Activity: Add a new feature
 
 1. Ensure you are at the live preview screen.
@@ -29,9 +45,53 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 1. Below are some example ideas you can ask Spark to implement. Alternately, you can make your own!.
 
    <details>
-   <summary>Paper Plates - 🍽️ Prototype Designer</summary><br/>
+   <summary>1. Coffee Shop - ☕️ Secret Menu</summary><br/>
 
-   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=8250df&color=f1e5ff)
+   ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
+
+   ```prompt
+   Ingredients Filter
+   The available ingredients for the secret menu are constantly changing.
+   Add an area in the side panel that shows all ingredients with checkboxes.
+   If something is unchecked, those items in the menu are dimmed and the word "unavailable" is added.
+   ```
+
+   </details>
+
+   ***
+
+   <details>
+   <summary>2. Lacrosse - 🥍 Stats Tracker</summary><br/>
+
+   ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
+
+   ```prompt
+   Player Notes - Add the below fields for additional tracking.
+
+   - Add a plain text field under each player for capturing notes.
+   - Add a "Sparkles" button counter to give a player kudos. Increment it the same way as the other stats.
+   ```
+
+   ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=179b9b&color=c7f5ef)
+
+   ```prompt
+   Opponent Tracking - Add support for also tracking the opponent.
+
+   - Add an area in the "Setup" page for also managing the opponents team members.
+   - Add an option to set a color for our team. Also show this in the config panel.
+   - Add an option to set a color for the opponent team. Also show this in the config panel.
+   - Modify the "Track Stats" page to make the player cards the matching colors.
+   - Add a setting in the config panel to filter the "Track Stats" page. (Us, Opponent, Both). This way different people can track each team.
+   ```
+
+   </details>
+
+   ***
+
+   <details>
+   <summary>3. Paper Plates - 🍽️ Prototype Designer</summary><br/>
+
+   ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=8250df&color=f1e5ff)
 
    ```prompt
    Add support for different shaped plates.
@@ -39,7 +99,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    For all options except round, add a configuration option in the side panel to set "Corner Radius". default: 0.5 inches
    ```
 
-   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=179b9b&color=c7f5ef)
+   ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=179b9b&color=c7f5ef)
 
    📎 Attachment: [Example Paper Plate Drawing](https://github.com/user-attachments/assets/8fbc27db-1dc8-4ef6-a85d-7e732d7f88f1)
 
@@ -50,7 +110,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
    Please change the top view and front section view to use the same dimensions, locations, and fonts as the example drawing.
    ```
 
-   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=bc4c00&color=ffe7d1)
+   ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=bc4c00&color=ffe7d1)
 
    ```prompt
    1. Add a 3D viewer that renders the plate in a semi-realistic way.
@@ -70,45 +130,7 @@ There are 2 (and a half) primary ways to communicate ideas to Spark:
 
    </details>
 
-   <details>
-   <summary>Coffee Shop - ☕️ Secret Menu</summary><br/>
-
-   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
-
-   ```prompt
-   Ingredients Filter
-   The available ingredients for the secret menu are constantly changing.
-   Add an area in the side panel that shows all ingredients with checkboxes.
-   If something is unchecked, those items in the menu are dimmed and the word "unavailable" is added.
-   ```
-
-   </details>
-
-   <details>
-   <summary>Lacrosse - 🥍 Stats Tracker</summary><br/>
-
-   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
-
-   ```prompt
-   Player Notes - Add the below fields for additional tracking.
-
-   - Add a plain text field under each player for capturing notes.
-   - Add a "Sparkles" button counter to give a player kudos. Increment it the same way as the other stats.
-   ```
-
-   ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=179b9b&color=c7f5ef)
-
-   ```prompt
-   Opponent Tracking - Add support for also tracking the opponent.
-
-   - Add an area in the "Setup" page for also managing the opponents team members.
-   - Add an option to set a color for our team. Also show this in the config panel.
-   - Add an option to set a color for the opponent team. Also show this in the config panel.
-   - Modify the "Track Stats" page to make the player cards the matching colors.
-   - Add a setting in the config panel to filter the "Track Stats" page. (Us, Opponent, Both). This way different people can track each team.
-   ```
-
-   </details>
+   ***
 
 1. Copy your favorite feature into the left chat panel. Click the **Submit** button.
 
@@ -129,13 +151,19 @@ We've realized the side configuration panel in our app is taking up a lot of scr
 
    <img width="350" alt="Select element button" src="https://github.com/user-attachments/assets/9c9dbf82-4cc8-48e8-82dc-eda14d7e6e3f">
 
-1. Hover over the right side panel. Click on it to highlight it. A chat box will appear.
+1. In the live preview, hover over the app's right settings panel. Click on it to highlight it. A chat box will appear.
+
+   <details>
+   <summary>🤷‍♂️ No side panel?</summary>
+
+   If your generated app doesn't have a side panel, it is ok. Mona will not be checking this. You can try modifying something else. 🧑‍🚀
+   </details>
 
    <img width="350" alt="Select element button" src="https://github.com/user-attachments/assets/2f5a3d9a-30d1-4c8b-aa01-b208c63b65ec">
 
 1. Enter the following text to ask Spark to make the side panel automatically hide when it isn't used:
 
-   > ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=8250df&color=f1e5ff)
+   > ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=8250df&color=f1e5ff)
    >
    > ```prompt
    > This takes up a lot of room.
@@ -160,7 +188,7 @@ Sometimes we don't like the results, or just want to try again with a better des
 
 1. Let's try updating the "hide panel" feature again with a more specific description. In the left chat panel, submit the below request:
 
-> ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
+> ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=a830e8&color=f8e5ff)
 >
 > ```prompt
 > The side panel takes up a lot of room.

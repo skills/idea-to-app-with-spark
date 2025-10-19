@@ -4,7 +4,7 @@
 
 With your app working well now, it's time to do some styling to match your personal brand or design requirements.
 
-Similar to not needing to code, Spark also provides help with basic styling so you don't need to be an expert on color combinations and fonts. 🖍️
+Similar to not needing to know how to code, Spark also provides help with basic styling so you don't need to be an expert on color combinations and fonts. 🖍️
 
 Let's explore some of the pre-made suggestions Spark offers to modify the feel of your app.
 
@@ -41,17 +41,17 @@ It's very common to have existing assets, like a company logo school mascot imag
 
 1. In the left chat panel, at the top, click the **Assets** tab to show a list of files (probably empty).
 
-1. Download one of the below logos.
+1. Right-click one of the below logos and download it.
 
    | Paper Plate Company                                                                                       | Coffee Shop                                                                                              | Lacrosse Team                                                                        |
    | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
    | ![Mergington Paper Prod](https://github.com/user-attachments/assets/976591b7-7af3-460d-a3db-174c1ef084b6) | ![The Late Commit Cafe](https://github.com/user-attachments/assets/c5149b86-df10-41b2-a772-4fd463b5df19) | ![](https://github.com/user-attachments/assets/779f9c47-83f5-4e1a-8e8f-e98f7663db27) |
 
-1. In the left side panel, click the **Upload files** button and choose your file.
+1. In the left side panel, click the **Upload files** button and choose the logo image.
 
 1. Ask Spark to use the uploaded image.
 
-   > ![Static Badge](https://img.shields.io/badge/✨-Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
+   > ![Static Badge](https://img.shields.io/badge/✨-Spark%20Prompt-text?style=flat-square&labelColor=ce2c85&color=ffe5f1)
    >
    > ```prompt
    > I just uploaded a logo. Please add it to the site.

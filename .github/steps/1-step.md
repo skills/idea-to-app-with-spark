@@ -28,7 +28,7 @@ In short, Spark is:
 - **Fast** - Minutes to a prototype. Not days.
 
 > [!IMPORTANT]
-> Spark's [billing](https://docs.github.com/en/copilot/concepts/billing/billing-for-spark) system operates using [Premium Request Units](https://docs.github.com/en/copilot/concepts/billing/copilot-requests#what-are-premium-requests) (PRUs), a quota of monthly allowed usage. Each request to Spark uses 4 PRUs. Don't feel bad about combining your ideas into fewer longer requests. 😎
+> Spark's [billing](https://docs.github.com/en/billing/concepts/product-billing/github-spark) system operates using [Premium Request Units](https://docs.github.com/en/copilot/concepts/billing/copilot-requests#what-are-premium-requests) (PRUs), a quota of monthly allowed usage. Each request to Spark uses 4 PRUs. Don't feel bad about combining your ideas into fewer longer requests. 😎
 
 ### 📖 Theory: Write a good description
 

@@ -24,7 +24,7 @@ Like all Codespaces, you can open it and start coding manually just like you do 
 
 > [!NOTE]
 > Want to learn more about Codespaces?  
-> Try the [Skills Exercise](https://github.com/skills-dev/code-with-codespaces) or explore the [Docs](https://docs.github.com/en/codespaces/quickstart).
+> Try the [Skills Exercise](https://github.com/skills/code-with-codespaces) or explore the [Docs](https://docs.github.com/en/codespaces/quickstart).
 
 ### ⌨️ Activity: Explore the Codespace
 

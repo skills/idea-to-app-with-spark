@@ -18,5 +18,5 @@ Here's a recap of your accomplishments:
 The fun doesn't stop here! Your journey from idea-haver to app-maker is just beginning:
 
 - **[Getting Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot)** - Level up with more AI-powered development tools
-- **[GitHub Codespaces](https://github.com/skills-dev/code-with-codespaces)** - Simplify your flow with a pre-configured development environment.
+- **[GitHub Codespaces](https://github.com/skills/code-with-codespaces)** - Simplify your flow with a pre-configured development environment.
 - **[GitHub Skills](https://learn.github.com/skills)** - Keep the learning party going with more hands-on exercises.
